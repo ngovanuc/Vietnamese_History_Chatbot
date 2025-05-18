@@ -1,0 +1,406 @@
+{
+    "name": "Đề ôn tập lớp 11 - Đề 4",
+    "questions": [
+        {
+            "question": "Chính sách thống trị nổi bật của thực dân phương Tây ở Mĩ Latinh là:",
+            "answer": "Thiết lập chế độ thống trị phản động, gây ra nhiều tội ác dã man, tàn khốc",
+            "choices": [
+                "Thiết lập chế độ thống trị phản động, gây ra nhiều tội ác dã man, tàn khốc",
+                "Thi hành chính sách thực dân mới, trao quyền cho người bản xứ",
+                "Lôi kéo lực lượng tay sai, đàn áp phong trào giải phóng dân tộc",
+                "Thành lập các tổ chức chính trị, chia rẽ khối đoàn kết dân tộc"
+            ]
+        },
+        {
+            "question": "Năm 1889, tổ chức \"Liên minh dân tộc các nước cộng hòa châu Mĩ\" được thành lập, dưới sự chỉ huy của chính quyền:",
+            "answer": "Oa-sinh-tơn",
+            "choices": [
+                "Bra-xin",
+                "Ác-hen-ti-na",
+                "Mê-hi-cô",
+                "Oa-sinh-tơn"
+            ]
+        },
+        {
+            "question": "Năm 1898, Mĩ gây chiến với nước nào để sau đó chiếm Phi-lip-pin, Cu-ba, Pu-éc-tô Ri-cô,...?",
+            "answer": "Tây Ban Nha",
+            "choices": [
+                "Tây Ban Nha",
+                "Bồ Đào Nha",
+                "Anh",
+                "Pháp"
+            ]
+        },
+        {
+            "question": "Dưới danh nghĩa đoàn kết với các nước châu Mĩ, chính quyền Oa-sinh-tơn biến khu vực Mĩ Latinh thành:",
+            "answer": "\"sân sau\" của đế quốc Mĩ",
+            "choices": [
+                "thuộc địa kiểu mới của Mĩ",
+                "\"sân sau\" của đế quốc Mĩ",
+                "\"hậu phương vững chắc\" của Mĩ",
+                "khu căn cứ quân sự lớn của Mĩ"
+            ]
+        },
+        {
+            "question": "Nước chiếm Ca-mơ-run, Tô-gô, Tây Nam Phi, Tan-da-ni-a là:",
+            "answer": "Đức",
+            "choices": [
+                "Bỉ",
+                "Bồ Đào Nha",
+                "Pháp",
+                "Đức"
+            ]
+        },
+        {
+            "question": "Một phần Tây Phi, miền Xích đạo châu Phi, Ma-đa-ga-xca, một phần Xô-ma-li, An-giê-ri, Tuy-ni-di, Xa-ha-ra là thuộc địa của",
+            "answer": "Pháp",
+            "choices": [
+                "Bồ Đào Nha",
+                "Đức",
+                "Pháp",
+                "Anh"
+            ]
+        },
+        {
+            "question": "Nam Phi, Tây Ni-giê-ri-a, Bờ Biển Vàng, Gam-bi-a (Tây Phi), Kê-ni-a, Ư-gan-đa, Xô-ma-li, Đông Xu-đăng, một phần Đông Phi là thuộc địa của:",
+            "answer": "Anh",
+            "choices": [
+                "Pháp",
+                "Anh",
+                "Đức",
+                "Bồ Đào Nha"
+            ]
+        },
+        {
+            "question": "Ở An-giê-ri, cuộc khởi nghĩa của Áp-đen Ca-đe kéo dài trong thời gian:",
+            "answer": "năm 1830 đến năm 1847",
+            "choices": [
+                "năm 1823 đến năm 1874",
+                "năm 1879 đến năm 1882",
+                "năm 1847 đến năm 1896",
+                "năm 1830 đến năm 1847"
+            ]
+        },
+        {
+            "question": "Lãnh đạo tổ chức chính trị bí mật \"Ai Cập trẻ\" là:",
+            "answer": "Át-mét A-ra-bi",
+            "choices": [
+                "Tút-xanh Lu-véc-tuy-a",
+                "Át-mét A-ra-bi",
+                "Áp-đen Ca-đe",
+                "Mu-ha-mét Át-mét"
+            ]
+        },
+        {
+            "question": "Nhà truyền giáo trẻ Mu-ha-mét Át-mét đã lãnh đạo nhân dân đấu tranh chống thực dân Anh ở",
+            "answer": "Xu-đăng",
+            "choices": [
+                "Xu-đăng",
+                "Ai Cập",
+                "An-giê-ri",
+                "Ê-ti-ô-pi-a"
+            ]
+        },
+        {
+            "question": "Ở Xu-đăng, ngay từ năm 1882, nhân dân dưới sự lãnh đạo của nhà truyền giáo trẻ Mu-ha-mét Át-mét đã kháng cự mạnh mẽ chống lại thực dân:",
+            "answer": "Anh",
+            "choices": [
+                "Pháp",
+                "Anh",
+                "Tây Ban Nha",
+                "Bồ Đào Nha"
+            ]
+        },
+        {
+            "question": "Nổi bật trong cuộc đấu tranh của nhân dân châu Phi chống thực dân phương Tây là cuộc kháng chiến chống ngoại xâm của nhân dân",
+            "answer": "Ê-ti-ô-pi-a",
+            "choices": [
+                "Xu-đăng",
+                "An-giê-ri",
+                "Ê-ti-ô-pi-a",
+                "Ai Cập"
+            ]
+        },
+        {
+            "question": "Năm 1889, lực lượng thực dân nào tiến sâu vào nội địa châu Phi, đánh chiếm một số vùng ở Ê-ti-ô-pi-a?",
+            "answer": "I-ta-li-a",
+            "choices": [
+                "Pháp",
+                "Anh",
+                "Bồ Đào Nha",
+                "I-ta-li-a"
+            ]
+        },
+        {
+            "question": "Năm 1889, thực dân I-ta-li-a tiến sâu vào nội địa châu Phi, đánh chiếm một số vùng ở:",
+            "answer": "Ê-ti-ô-pi-a",
+            "choices": [
+                "Xu-đăng",
+                "An-giê-ri",
+                "Ai Cập",
+                "Ê-ti-ô-pi-a"
+            ]
+        },
+        {
+            "question": "Ở Ê-ti-ô-pi-a, ngày 1 - 3 - 1896, quân I-ta-li-a thảm bại tại:",
+            "answer": "A-dua",
+            "choices": [
+                "Đi-rê Đa-ua",
+                "A-dua",
+                "Dim-rna",
+                "A-đi A-bê-ba"
+            ]
+        },
+        {
+            "question": "Nhân dân nước nào đã tiến hành cuộc kháng chiến chống quân xâm lược I-ta-li-a vào cuối thế kỉ XIX giành được thắng lợi?",
+            "answer": "Ê-ti-ô-pi-a",
+            "choices": [
+                "Xu-đăng",
+                "An-giê-ri",
+                "Ai Cập",
+                "Ê-ti-ô-pi-a"
+            ]
+        },
+        {
+            "question": "A-dua - nơi quân I-ta-li-a thảm bại vào ngày 1 - 3 - 1896 thuộc về",
+            "answer": "Ê-ti-ô-pi-a",
+            "choices": [
+                "Ê-ti-ô-pi-a",
+                "Ai Cập",
+                "An-giê-ri",
+                "Xu-đăng"
+            ]
+        },
+        {
+            "question": "Những nước giữ được độc lập ở châu Phi trước sự xâm chiếm của các nước thực dân phương Tây hồi cuối thế kỉ XIX - đầu thế kỉ XX là:",
+            "answer": "Ê-ti-ô-pi-a, Li-bê-ri-a",
+            "choices": [
+                "Ê-ti-ô-pi-a, Tan-da-ni-a",
+                "Ê-ti-ô-pi-a, Xô-ma-li",
+                "Ê-ti-ô-pi-a, Tuy-ni-di",
+                "Ê-ti-ô-pi-a, Li-bê-ri-a"
+            ]
+        },
+        {
+            "question": "Tút-xanh Lu-véc-tuy-a lãnh đạo cuộc đấu tranh của người da đen ở:",
+            "answer": "Ha-i-ti",
+            "choices": [
+                "Mê-hi-cô",
+                "Pê-ru",
+                "Ác-hen-ti-na",
+                "Ha-i-ti"
+            ]
+        },
+        {
+            "question": "Năm 1791, ở Ha-i-ti bùng nổ cuộc đấu tranh lớn của sắc dân nào dưới sự lãnh đạo của Tút-xanh Lu-véc-tuy-a?",
+            "answer": "Người da đen",
+            "choices": [
+                "Người da trắng",
+                "Người da vàng",
+                "Người da đen",
+                "Người da đỏ"
+            ]
+        },
+        {
+            "question": "Năm 1791, ở Ha-i-ti bùng nổ cuộc đấu tranh lớn của người da đen dưới sự lãnh đạo của:",
+            "answer": "Tút-xanh Lu-véc-tuy-a",
+            "choices": [
+                "Mu-ha-mét Át-mét",
+                "Mi-sen Hi-đan-gô",
+                "Si-môn Bô-li-va",
+                "Tút-xanh Lu-véc-tuy-a"
+            ]
+        },
+        {
+            "question": "Sự kiện nào đánh dấu sự thất bại của kế hoạch “đánh nhanh thắng nhanh” của Đức trong giai đoạn đầu cuộc Chiến tranh thế giới thứ nhất?",
+            "answer": "Quân Pháp phản công giành thắng lợi trên sông Marne, quân Anh đổ bộ lên lục địa châu Âu",
+            "choices": [
+                "Quân Đức tấn công Bỉ, chặn con đường ra biển, không cho quân Anh sang tiếp viện",
+                "Quân Pháp phản công giành thắng lợi trên sông Marne, quân Anh đổ bộ lên lục địa châu Âu",
+                "Quân Đức dồn binh lực sang mặt trận phía Đông, cùng quân Áo – Hung tấn công Nga quyết liệt",
+                "Quân Nga tấn công vào Đông Phổ, buộc Đức phải điều quân từ mặt trận phía Tây về chống lại quân Nga"
+            ]
+        },
+        {
+            "question": "Sau Chiến tranh Mĩ - Tây Ban Nha (1898), Mĩ chiếm:",
+            "answer": "Phi-líp-pin, Cu-ba, Pu-éc-tô Ri-cô",
+            "choices": [
+                "Pu-éc-tô Ri-co, Cam-pu-chia, Hi-i-ti",
+                "Phi-líp-pin, Cu-ba, Pu-éc-tô Ri-cô",
+                "Ác-hen-ti-na, In-đô-nê-xi-a, Cu-ba",
+                "Mê-hi-cô, Phi-líp-pin, Pu-éc-tô Ri-cô"
+            ]
+        },
+        {
+            "question": "Từ những năm 80 của thế kỉ XX, giới cầm quyền nước nào đã vạch ra kế hoạch chiến tranh nhằm chiếm hầu hết lãnh thổ châu Âu, vươn ra các thuộc địa của Anh và Pháp ở châu Phi và châu Á?",
+            "answer": "Đức",
+            "choices": [
+                "Mĩ",
+                "I-ta-li-a",
+                "Nhật Bản",
+                "Đức"
+            ]
+        },
+        {
+            "question": "Từ những năm 80 của thế kỉ XX, giới cầm quyền Đức đã vạch ra kế hoạch chiến tranh nhằm chiếm hầu hết lãnh thổ châu Âu, vươn ra các thuộc địa của Anh và Pháp ở đâu?",
+            "answer": "Châu Phi và châu Á",
+            "choices": [
+                "Châu Phi",
+                "Châu Á",
+                "Châu Phi và châu Á",
+                "Châu Phi, châu Á và châu Mĩ"
+            ]
+        },
+        {
+            "question": "Cho các sự kiện sau: 1. Anh tuyên chiến với Đức. 2. Áo - Hung tuyên chiến với Xéc-bi. 3. Đức tuyên chiến với Nga. Hãy sắp xếp các sự kiện trên theo đúng trình tự thời gian.",
+            "answer": "2, 3, 2001",
+            "choices": [
+                "2, 1, 2003",
+                "3, 2, 2001",
+                "2, 3, 2001",
+                "1, 2, 2003"
+            ]
+        },
+        {
+            "question": "Chọn ý đúng nhất để hoàn thiện đoạn tư liệu về các nhà văn, nhà thơ tiêu biểu của nước Pháp buổi đầu thời cận đại: “Coóc-nây (1606 – 1684) là đại biểu xuất sắc cho nền……………………… cổ điển Pháp. Laphôngten (1621 – 1695) là nhà ngụ ngôn và…………………… cổ điển Pháp. Môlie (1622- 1673) là tác giả nổi tiếng của nền……………....... cổ điển Pháp…”",
+            "answer": "Bi kịch…nhà văn…hài kịch",
+            "choices": [
+                "Chính kịch…bi kịch…hài kịch",
+                "Bi kịch…nhà văn…hài kịch",
+                "Bi kịch…nhà văn…chính kịch",
+                "Bi kịch… nhà thơ…hài kịch"
+            ]
+        },
+        {
+            "question": "Được xem như “Những người đi trước dọn đường cho Cách mạng Pháp năm 1789 thắng lợi” là:",
+            "answer": "Các nhà Khai sáng ở thế kỉ XVII – XVIII",
+            "choices": [
+                "Các nhà Khai sáng ở thế kỉ XVII – XVIII",
+                "Các nhà triết học cổ điển ở thế kỉ XVII – XVIII",
+                "Các nhà văn, nhà thơ cổ điển ở thế kỉ XVII – XVIII",
+                "Các nhà soạn nhạc kịch cổ điển ở thế kỉ XVII – XVIII"
+            ]
+        },
+        {
+            "question": "Hãy sắp xếp tên tác giả cho phù hợp với tên các tác phẩm sau: 1. Những người khốn khổ 2. Những cuộc phiêu lưu của Tôm Xoay-ơ 3. Chiến tranh và hòa bình",
+            "answer": "Víchto Huygô, Mác Tuên, Lép Tônxtôi",
+            "choices": [
+                "Víchto Huygô, Mác Tuên, Lép Tônxtôi",
+                "Lép Tônxtôi, Mác Tuên, Víchto Huygô",
+                "Víchto Huygô, Lép Tônxtôi, , Mác Tuên",
+                "Mác Tuên, Víchto Huygô, Lép Tônxtôi"
+            ]
+        },
+        {
+            "question": "Thơ Dâng là tác phẩm văn học đoạt giải Nôben năm 1913 vì:",
+            "answer": "Thể hiện rõ lòng yêu nước, yêu hòa bình và tinh thần nhân đạo sâu sắc",
+            "choices": [
+                "Thể hiện rõ tinh thần dân tộc và tinh thần nhân đạo sâu sắc",
+                "Thể hiện rõ tình yêu hòa bình và tinh thần nhân đạo sâu sắc",
+                "Thể hiện rõ lòng yêu nước, đấu tranh vì nền hòa bình của nhân loại",
+                "Thể hiện rõ lòng yêu nước, yêu hòa bình và tinh thần nhân đạo sâu sắc"
+            ]
+        },
+        {
+            "question": "Tác phẩm nổi tiếng của Mác Tuên (1835 - 1910) - nhà văn Mĩ là:",
+            "answer": "Những người I-nô-xăng đi du lịch, Những cuộc phiêu lưu của Tôm Xoay-ơ",
+            "choices": [
+                "Chiến tranh và Hòa bình, Những người I-nô-xăng đi du lịch",
+                "Những cuộc phiêu lưu của Tôm Xoay-ơ, Đừng động vào tôi",
+                "Những người khốn khổ, Những cuộc phiêu lưu của Tôm Xoay-ơ",
+                "Những người I-nô-xăng đi du lịch, Những cuộc phiêu lưu của Tôm Xoay-ơ"
+            ]
+        },
+        {
+            "question": "Người đã để lại 52 tập thơ, 42 vở kịch, 12 cuốn tiểu thuyết, nhiều truyện ngắn, luận văn, bút kí, ca khúc và tranh vẽ là:",
+            "answer": "Ra-bin-đra-nát Ta-go",
+            "choices": [
+                "Lỗ Tấn",
+                "Lép Tôn-xtôi",
+                "Vích-to Huy-gô",
+                "Ra-bin-đra-nát Ta-go"
+            ]
+        },
+        {
+            "question": "Tác giả của tập Thơ Dâng đoạt giải Nôben năm 1913 là:",
+            "answer": "Ra-bin-đra-nát Ta-go",
+            "choices": [
+                "Ra-bin-đra-nát Ta-go",
+                "Lép Tôn-xtôi",
+                "Mác Tuên",
+                "Vích-to Huy-gô"
+            ]
+        },
+        {
+            "question": "Văn học, nghệ thuật, tư tưởng vào buổi đầu thời cận đại có vai trò quan trọng trong việc",
+            "answer": "tấn công vào thành trì của chế độ phong kiến và hình thành quan điểm, tư tưởng của con người tư sản",
+            "choices": [
+                "định hướng phát triển kinh tế - xã hội ở mỗi quốc gia",
+                "khẳng định những giá trị truyền thống tốt đẹp của dân tộc",
+                "thúc đẩy giao lưu kinh tế, văn hóa giữa các quốc gia, dân tộc",
+                "tấn công vào thành trì của chế độ phong kiến và hình thành quan điểm, tư tưởng của con người tư sản"
+            ]
+        },
+        {
+            "question": "Được xem như \"những người đi trước dọn đường cho Cách mạng Pháp 1789 thắng lợi\" là?",
+            "answer": "Các nhà Khai sáng thế kỉ XVII - XVIII",
+            "choices": [
+                "Các nhà triết học cổ điển thế kỉ XVII - XVIII",
+                "Các nhà Khai sáng thế kỉ XVII - XVIII",
+                "Các nhà văn, nhà thơ cổ điển thế kỉ XVII - XVIII",
+                "Các nhà soạn nhạc, kịch cổ điển thế kỉ XVII - XVIII"
+            ]
+        },
+        {
+            "question": "Vích-to Huy-gô (1802 - 1885) là:",
+            "answer": "nhà thơ, nhà tiểu thuyết, nhà viết kịch Pháp",
+            "choices": [
+                "nhà văn lớn của Mĩ vào thế kỉ XIX",
+                "nhà văn nổi tiếng người Nga",
+                "nhà họa sĩ, đồ họa nổi tiếng người Hà Lan",
+                "nhà thơ, nhà tiểu thuyết, nhà viết kịch Pháp"
+            ]
+        },
+        {
+            "question": "Nhà văn Nga, nổi tiếng với các tác phẩm: Chiến tranh và Hòa bình, An-na Ka-rê-ni-na, Phục sinh là:",
+            "answer": "Lép Tôn-xtôi",
+            "choices": [
+                "Pu-skin",
+                "Lép Tôn-xtôi",
+                "Mác Tuên",
+                "Vích-to Huy-gô"
+            ]
+        },
+        {
+            "question": "Các tác phẩm nổi tiếng của nhà văn Nga Lép Tôn-xtôi (1828 - 1910) là:",
+            "answer": "Chiến tranh và Hòa bình, An-na Ka-rê-ni-na, Phục sinh",
+            "choices": [
+                "Chiến tranh và Hòa bình, Phục sinh, Đừng động vào tôi",
+                "Chiến tranh và Hòa bình, An-na Ka-rê-ni-na, Phục sinh",
+                "Chiến tranh và Hòa bình, Những người khốn khổ, An-na Ka-rê-ni-na",
+                "Chiến tranh và Hòa bình, Những cuộc phiêu lưu của Tôm Xoay-ơ, Phục sinh"
+            ]
+        },
+        {
+            "question": "Lê-nin đã đánh giá các tác phẩm của ai như \"tấm gương phản chiếu cách mạng Nga\"?",
+            "answer": "Lép Tôn-xtôi",
+            "choices": [
+                "Vích-to Huy-gô",
+                "Mác Tuên",
+                "Lép Tôn-xtôi",
+                "Ra-bin-đra-nát Ta-go"
+            ]
+        },
+        {
+            "question": "Coóc-nây (1606 - 1684) là đại biểu xuất sắc cho nền văn học nào?",
+            "answer": "Nền bi kịch cổ điển Pháp",
+            "choices": [
+                "Nền hài kịch Pháp",
+                "Nền bi kịch cổ điển Pháp",
+                "Truyện ngụ ngôn Pháp",
+                "Tiểu thuyết Pháp"
+            ]
+        }
+    ],
+    "__count__": 40
+}

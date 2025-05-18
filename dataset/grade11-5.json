@@ -1,0 +1,406 @@
+{
+    "name": "Đề ôn tập lớp 11 - Đề 5",
+    "questions": [
+        {
+            "question": "Bản giao hưởng số 3, số 5, số 9 là tác phẩm nổi tiếng của nhà soạn nhạc nào thời kì cận đại?",
+            "answer": "Bét-tô-ven (Người Đức)",
+            "choices": [
+                "Mô-da (Người Áo)",
+                "Bét-tô-ven (Người Áo)",
+                "Mô-da (Người Đức)",
+                "Bét-tô-ven (Người Đức)"
+            ]
+        },
+        {
+            "question": "Những tư tưởng mới của các nhà Triết học Ánh sáng Pháp ở thế kỉ XVII - XVIII có tác động như thế nào sự phát triển của lịch sử nước Pháp?",
+            "answer": "Là những người đi trước dọn đường cho Cách mạng tư sản Pháp năm 1789 thắng lợi",
+            "choices": [
+                "Những nhà cách mạng triệt để trong cuộc đấu tranh chống thế lực phong kiến",
+                "Là những người đi trước dọn đường cho Cách mạng tư sản Pháp năm 1789 thắng lợi",
+                "Tư tưởng của họ để sáng lập ra triết học duy vật biện chứng",
+                "Lớp người đại diện cho những tư tưởng tiến bộ nhất ở châu Âu lúc bấy giờ"
+            ]
+        },
+        {
+            "question": "Tác phẩm tiêu biểu của Hô-xê Ri-dan là:",
+            "answer": "Đừng động vào tôi",
+            "choices": [
+                "Những cuộc phiêu lưu của Tôm Xoay-ơ",
+                "Những người khốn khổ",
+                "Đừng động vào tôi",
+                "Chiến tranh và Hòa bình"
+            ]
+        },
+        {
+            "question": "Tác phẩm Đừng động vào tôi của Hô-xê Ri-dan đã miêu tả cuộc kháng chiến giành độc lập của nhân dân:",
+            "answer": "Phi-líp-pin",
+            "choices": [
+                "Trung Quốc",
+                "Ấn Độ",
+                "Cu-ba",
+                "Phi-líp-pin"
+            ]
+        },
+        {
+            "question": "Nhà văn, nhà thơ lớn nào sau đây là của Phi-líp-pin với tác phẩm tiêu biểu Đừng động vào tôi?",
+            "answer": "Hô-xê Ri-dan",
+            "choices": [
+                "Vích-to Huy-gô",
+                "Hô-xê Ri-dan",
+                "Mác Tuên",
+                "Hô-xê Mác-ti"
+            ]
+        },
+        {
+            "question": "Vở ôpêra Con đầm pích, các vở balê Hồ thiên nga, Người đẹp ngủ trong rừng,... là các tác phẩm nổi tiếng của:",
+            "answer": "Trai-cốp-xki",
+            "choices": [
+                "Vích-to Huy-gô",
+                "Trai-cốp-xki",
+                "Lép Tôn-xtôi",
+                "Bét-tô-ven"
+            ]
+        },
+        {
+            "question": "Những nhà thơ, nhà văn tiêu biểu của phương Đông thời kì cận đại bao gồm",
+            "answer": "Lỗ Tấn, Hô-xe Ri-dan, Ra-bin-đra-nát Ta-go.",
+            "choices": [
+                "Lỗ Tấn, Hô-xe Ri-dan, Ra-bin-đra-nát Ta-go.",
+                "Mác Tuên, Hô-xe Ri-dan, Ra-bin-đra-nát Ta-go.",
+                "Lỗ Tấn, Hô-xe Ri-dan, Vích-to Huy -go.",
+                "Mác Tuên, Hô-xe Ri-dan, Ban-dắc."
+            ]
+        },
+        {
+            "question": "Hô-xê Mác-ti là nhà văn",
+            "answer": "Tiêu biểu cho tình tần đấu tranh, niềm tin vào thắng lợi của đấu tranh cho độc lập dân tộc và tiến bộ xã hội.",
+            "choices": [
+                "Tiêu biểu cho tình tần đấu tranh, niềm tin vào thắng lợi của đấu tranh cho độc lập dân tộc và tiến bộ xã hội.",
+                "Nhà văn lớn người Phi-lip-pin với tác phẩm tiêu biểu \"Đừng động vào tôi\".",
+                "Tố cáo kẻ thù xâm lược và miêu tả cuộc kháng chiến giành độc lập của nhân dân Phi-lip-pin.",
+                "Là nhà văn cách mạng nổi tiếng Trung Quốc."
+            ]
+        },
+        {
+            "question": "Tác phẩm \"Những người khốn khổ\" của Vích-to Huy-gô đã đi sâu khai thác đề tài gì trong đời sống xã hội?",
+            "answer": "Lòng yêu thương vô hạn đối với những con người đau khổ, mong tìm những giải pháp đem lại hạnh phúc cho họ.",
+            "choices": [
+                "Phản ảnh hiện thực của xã hội Pháp.",
+                "Lòng yêu thương vô hạn đối với những con người đau khổ, mong tìm những giải pháp đem lại hạnh phúc cho họ.",
+                "Chống lại trật tự của chế độ phong kiến Nga hoàng.",
+                "Ca ngợi phẩm chất của người dân Nga trong công cuộc xây dựng và bảo vệ Tổ quốc."
+            ]
+        },
+        {
+            "question": "Các tác phẩm \"Con đầm pích\", \"Hồ Thiên Nga\", \"Người đẹp ngủ trong rừng\" là của tác giả nổi tiếng nào thời kì cận đại?",
+            "answer": "Trai-cốp-xki.",
+            "choices": [
+                "Hô-xê Mác-ti.",
+                "Hô-xe Ri-dan.",
+                "Trai-cốp-xki.",
+                "Pi-cát-xô."
+            ]
+        },
+        {
+            "question": "Sự kiện mở đầu cuộc Cách mạng dân chủ tư sản tháng Hai ở Nga là gì?",
+            "answer": "Cuộc biểu tình của 9 vạn nữ công nhân ở Thủ đô Pê-tơ-rô-grát",
+            "choices": [
+                "Các Xô viết được thành lập",
+                "Cuộc tấn công vào Cung điện Mùa Đông",
+                "Cuộc biểu tình của 9 vạn nữ công nhân ở Thủ đô Pê-tơ-rô-grát",
+                "Lê-nin bí mật về Pê-tơ-rô-grát, trực tiếp chỉ đạo cách mạng"
+            ]
+        },
+        {
+            "question": "Trước tình hình chính trị phức tạp sau Cách mạng dân chủ tư sản tháng Hai năm 1917, Lê-nin và Đảng Bônsêvích đã có chủ trương gì?",
+            "answer": "Chuẩn bị kế hoạch tiếp tục làm cách mạng, lật đổ Chính phủ tư sản lâm thời",
+            "choices": [
+                "Tiến hành đàm phán với Chính phủ tư sản lâm thời",
+                "Nhờ sự các thế lực bên ngoài giúp đỡ để lật đổ Chính phủ tư sản lâm thời",
+                "Kêu gọi nhân dân đẩy mạnh sản xuất để phục vụ cho cuộc chiến đấu lâu dài",
+                "Chuẩn bị kế hoạch tiếp tục làm cách mạng, lật đổ Chính phủ tư sản lâm thời"
+            ]
+        },
+        {
+            "question": "Tháng 4 - 1917, Lê-nin có bản báo cáo quan trọng trước Trung ương Đảng Bônsêvích, chỉ ra mục tiêu và đường lối chuyển từ:",
+            "answer": "cách mạng dân chủ tư sản sang cách mạng xã hội chủ nghĩa",
+            "choices": [
+                "cách mạng tư sản sang cách mạng vô sản",
+                "cách mạng ruộng đất sang cách mạng xã hội chủ nghĩa",
+                "cách mạng dân chủ tư sản sang cách mạng xã hội chủ nghĩa",
+                "cách mạng tư sản dân quyền sang cách mạng xã hội chủ nghĩa"
+            ]
+        },
+        {
+            "question": "Vì sao ngày 25-10-1917 (tức ngày 7-11-1917) đi vào lịch sử là ngày thắng lợi của Cách mạng tháng Mười Nga?",
+            "answer": "Ngày cách mạng giành thắng lợi ở Thủ đô Pêtơrôgrát",
+            "choices": [
+                "Ngày cách mạng cùng nổ",
+                "Ngày cách mạng giành thắng lợi hoàn toàn trên đất nước Nga rộng lớn",
+                "Ngày quân cách mạng tiến công vào thủ phủ Chính phủ lâm thời tư sản",
+                "Ngày cách mạng giành thắng lợi ở Thủ đô Pêtơrôgrát"
+            ]
+        },
+        {
+            "question": "Ngày 25 - 10 - 1917 (tức ngày 7 - 11 - 1917) đi vào lịch sử là ngày thắng lợi của Cách mạng tháng Mười Nga, bởi vì đây là ngày gì?",
+            "answer": "Cách mạng giành được thắng lợi hoàn toàn ở Thủ đô Pê-tơ-rô-grát",
+            "choices": [
+                "Cách mạng bùng nổ ở Nga",
+                "Cách mạng giành được thắng lợi hoàn hoàn trên đất nước Nga rộng lớn",
+                "Quân cách mạng chiếm được những vị trí then chốt ở Thủ đô",
+                "Cách mạng giành được thắng lợi hoàn toàn ở Thủ đô Pê-tơ-rô-grát"
+            ]
+        },
+        {
+            "question": "Ý nghĩa lịch sử quốc tế to lớn của cuộc Cách mạng tháng Mười Nga là:",
+            "answer": "cổ vũ mạnh mẽ và để lại nhiều bài học quý báu cho phong trào cách mạng của giai cấp công nhân, nhân dân lao động và các dân tộc bị áp bức trên thế giới.",
+            "choices": [
+                "đập tan ách áp bức, bóc lột của chế độ phong kiến, đưa nhân dân lao động lên làm chủ đất nước, làm chủ vận mệnh của mình",
+                "tạo thế cân bằng trong so sánh lực lượng giữa hệ thống các nước xã hội chủ nghĩa với các nước tư bản chủ nghĩa",
+                "đưa đến sự thành lập các tổ chức quốc tế mới của giai cấp công nhân và nhân dân lao động trên thế giới",
+                "cổ vũ mạnh mẽ và để lại nhiều bài học quý báu cho phong trào cách mạng của giai cấp công nhân, nhân dân lao động và các dân tộc bị áp bức trên thế giới."
+            ]
+        },
+        {
+            "question": "Thực chất của Chính sách kinh tế mới là:",
+            "answer": "Chuyển đổi kịp thời từ nền kinh tế do Nhà nước nắm độc quyền mọi mặt sang nền kinh tế nhiều thành phần có sự kiểm soát của nhà nước",
+            "choices": [
+                "Nhà nước nắm độc quyền mọi mặt và quản lí các ngành kinh tế",
+                "Coi trọng, bảo vệ quyền lợi, giúp đỡ để các tập đoàn tư bản lớn phục hồi và phát triển sản xuất",
+                "Kịp thời chuyển đổi, quy hoạch lại các nhà máy, xí nghiệp nhỏ để tập trung cho sản xuất lớn",
+                "Chuyển đổi kịp thời từ nền kinh tế do Nhà nước nắm độc quyền mọi mặt sang nền kinh tế nhiều thành phần có sự kiểm soát của nhà nước"
+            ]
+        },
+        {
+            "question": "Liên bang Cộng hòa xã hội chủ nghĩa Xô viết (Liên Xô) được thành lập dựa trên yêu cầu nào?",
+            "answer": "Tự liên minh chặt chẽ giữa các dân tộc trên lãnh thổ Xô viết nhằm tăng cường sức mạnh về mọi mặt",
+            "choices": [
+                "Sự giúp đỡ từ bên ngoài",
+                "Hợp tác kinh tế giữa các dân tộc trên đất nước Nga",
+                "Tự nguyện, tự quyết của các dân tộc",
+                "Tự liên minh chặt chẽ giữa các dân tộc trên lãnh thổ Xô viết nhằm tăng cường sức mạnh về mọi mặt"
+            ]
+        },
+        {
+            "question": "Sau Cách mạng tháng Mười, chính quyền Xô viết đã thiết lập quan hệ ngoại giao với:",
+            "answer": "Một số nước láng giềng châu Á và châu Âu",
+            "choices": [
+                "Một số nước châu Phi",
+                "Một số nước ở châu Đại Dương",
+                "Một số nước ở khu vực Mĩ Latinh",
+                "Một số nước láng giềng châu Á và châu Âu"
+            ]
+        },
+        {
+            "question": "Trong Chính sách kinh tế mới, phần lớn các xí nghiệp đã có sự thay đổi ra sao?",
+            "answer": "Chuyển sang chế độ tự hoạch toán kinh tế, cải tiến chế độ tiền lương, nâng cao năng suất lao động",
+            "choices": [
+                "Chuyến thành các công ti cổ phần",
+                "Được Nhà nước bao cấp, kiểm soát toàn bộ quá trình sản xuất",
+                "Đã tiến hành liên doanh, liên kết với các công ti tư bản nước ngoài",
+                "Chuyển sang chế độ tự hoạch toán kinh tế, cải tiến chế độ tiền lương, nâng cao năng suất lao động"
+            ]
+        },
+        {
+            "question": "Chính sách kinh tế mới ở nước Nga Xô viết là:",
+            "answer": "sự chuyển đổi kịp thời từ nền kinh tế do Nhà nước nắm độc quyền về mọi mặt sang nền kinh tế nhiều thành phân, nhưng vẫn đặt dưới sự kiểm soát của Nhà nước",
+            "choices": [
+                "Nhà nước nắm độc quyền về mọi mặt, trực tiếp quản lí, chỉ đạo các ngành kinh tế của đất nước",
+                "sự chuyển đổi kịp thời từ nền kinh tế do Nhà nước nắm độc quyền về mọi mặt sang nền kinh tế nhiều thành phân, nhưng vẫn đặt dưới sự kiểm soát của Nhà nước",
+                "quy hoạch, bố trí hợp lí các khu công nghiệp tập trung, khu chế xuất; kịp thời chuyển đổi các nhà máy, xí nghiệp nhỏ để tập trung sản xuất lớn",
+                "đầu tư phát triển khoa học - kĩ thuật và công nghệ, tập trung xây dựng các ngành công nghiệp đòi hỏi nhiều chất xám, trình độ kĩ thuật cao"
+            ]
+        },
+        {
+            "question": "Liên bang Cộng hòa xã hội chủ nghĩa Xô viết (gọi tắt là Liên Xô) được thành lập dựa trên yêu cầu nào?",
+            "answer": "Liên minh chặt chẽ giữa các dân tộc trên lãnh thổ Xô viết nhằm tăng cường sức mạnh về mọi mặt",
+            "choices": [
+                "Của sự giúp đỡ từ bên ngoài",
+                "Cần phải hợp tác về kinh tế giữa các dân tộc trên lãnh thổ Nga",
+                "Những nét tương đồng về mặt tự nhiên, dân cư, xã hội, trình độ phát triển kinh tế",
+                "Liên minh chặt chẽ giữa các dân tộc trên lãnh thổ Xô viết nhằm tăng cường sức mạnh về mọi mặt"
+            ]
+        },
+        {
+            "question": "Bốn nước Cộng hòa Xô viết đầu tiên trong Liên bang Cộng hòa xã hội chủ nghĩa Xô viết là:",
+            "answer": "Nga, U-crai-na, Bê-lô-rút-xi-a và Ngoại Cáp-ca-dơ",
+            "choices": [
+                "Nga, U-dơ-bê-ki-xtan, Môn-đô-va và Ngoại Cáp-ca-đơ",
+                "Nga, Gu-di-a, Tuốc-mê-ni-a và Ngoại Cáp-ca-dơ",
+                "Nga, U-crai-na, Bê-lô-rút-xi-a và Ngoại Cáp-ca-dơ",
+                "Nga, Tát-gi-ki-xtan, E-xtô-ni-a và Ngoại Cáp-ca-dơ"
+            ]
+        },
+        {
+            "question": "Ngày 21 - 1 - 1924, diễn ra sự kiện lịch sử gì ở Liên Xô?",
+            "answer": "V.I. Lê-nin, lãnh tụ vĩ đại của giai cấp vô sản, người đứng đầu Đảng và Nhà nước Xô viết qua đời",
+            "choices": [
+                "Nhà nước phát hành đồng rúp mới thay cho các loại tiền cũ",
+                "Liên Xô hoàn thành công cuộc khôi phục kinh tế",
+                "Đảng Bônsêvích Nga quyết định thực hiện Chính sách kinh tế mới",
+                "V.I. Lê-nin, lãnh tụ vĩ đại của giai cấp vô sản, người đứng đầu Đảng và Nhà nước Xô viết qua đời"
+            ]
+        },
+        {
+            "question": "Trong 2 năm đầu (1926 - 1927), Liên Xô đã từng bước giải quyết thành công các vấn đề về:",
+            "answer": "vốn đầu tư, đào tạo cán bộ kĩ thuật, công nhân lành nghề",
+            "choices": [
+                "thu hút vốn đầu tư nước ngoài, chuyển giao công nghệ, đào tạo kĩ thuật cho người lao động, hiện đại hóa cơ sở vật chất - kĩ thuật cho tất cả các ngành kinh tế",
+                "thực hiện liên doanh, liên kết sản xuất với các công ti tư bản nước ngoài, phát triển đủ các loại hình giao thông vận tải, thông tin liên lạc, thương mại, du lịch, tư vấn đầu tư,...",
+                "vốn đầu tư, đào tạo cán bộ kĩ thuật, công nhân lành nghề",
+                "phát triển các ngành công nghiệp hiện đại như điện tử - viễn thông, hàng không -vũ trụ, nguyên tử"
+            ]
+        },
+        {
+            "question": "Từ năm 1937, nhân dân Liên Xô tiếp tục thực hiện kế hoạch 5 năm lần thứ ba, nhưng công cuộc xây dụng chủ nghĩa xã hội tạm thời bị gián đoạn bởi:",
+            "answer": "cuộc chiến tranh xâm lược của phát xít Đức",
+            "choices": [
+                "cuộc chiến tranh xâm lược của đế quốc Mĩ",
+                "cuộc chiến tranh xâm lược của phát xít Đức",
+                "cuộc chiến tranh xâm lược của thực dân Pháp",
+                "cuộc chiến tranh xâm lược của phát xít Nhật"
+            ]
+        },
+        {
+            "question": "Sau Cách mạng tháng Mười, chính quyền Xô viết đã từng bước thiết lập quan hệ ngoại giao với:",
+            "answer": "một số nước láng giềng ở châu Á và châu Âu",
+            "choices": [
+                "một số nước ở châu Phi và châu Âu",
+                "một số nước ở châu Mĩ và châu Âu",
+                "một số nước ở châu Á và châu Đại Dương",
+                "một số nước láng giềng ở châu Á và châu Âu"
+            ]
+        },
+        {
+            "question": "Trong vòng 4 năm (1922 - 1925), các cường quốc tư bản nào lần lượt công nhận và thiết lập quan hệ ngoại giao với Liên Xô?",
+            "answer": "Đức, Anh, I-ta-li-a, Pháp, Nhật Bản",
+            "choices": [
+                "Pháp, Đức, I-ta-li-a, Hà Lan, Lúc-xem-bua",
+                "Anh, Pháp, Đức, Hi Lạp, Nhật Bản",
+                "I-ta-li-a, Pháp, Anh, Bồ Đào Nha, Đức",
+                "Đức, Anh, I-ta-li-a, Pháp, Nhật Bản"
+            ]
+        },
+        {
+            "question": "Sau Chiến tranh thế giới thứ nhất, các nước tư bản đã tổ chức Hội nghị hòa bình tại đâu, vào thời gian nào?",
+            "answer": "Vécxai (1919 – 1920) và Oasinhtơn (1921-1922)",
+            "choices": [
+                "Pari ( 1919-1920) và Luân Đôn (1920 – 1921)",
+                "Vécxai (1919 – 1920) và Oasinhtơn (1921-1922)",
+                "Luân Đôn (1919 – 1920) và Oasinhtơn (1921 – 1922)",
+                "Oasinhtơn (1919 – 1920) và Vécxai (1921 – 1922)"
+            ]
+        },
+        {
+            "question": "Nội dung chủ yếu của các hội nghị hòa bình được tổ chức sau Chiến tranh thế giới thứ nhất là:",
+            "answer": "Để kí hòa ước và các hiệp ước phân chia quyền lợi cho các nước thắng trận",
+            "choices": [
+                "Để kí hòa ước và các hiệp ước phân chia quyền lợi cho các nước thắng trận",
+                "Để kí hòa ước và bảo vệ quyền lợi cho nhân dân các nước tư bản",
+                "Để kí hòa ước và bảo vệ quyền lợi cho nhân dân các nước thuộc địa",
+                "Để kí hòa ước và bảo vệ quyền lợi cho nhân dân các nước chịu ảnh hưởng của chiến tranh"
+            ]
+        },
+        {
+            "question": "“Quan hệ hòa bình giữa các nước tư bản sau Chiến tranh thế giới thứ nhất chỉ là tạm thời và mỏng manh” vì:",
+            "answer": "Làm nảy sinh những bất đồng do mâu thuẫn về việc phân chia quyền lợi",
+            "choices": [
+                "Hệ thống thuộc địa của các nước nhiều, ít khác nhau",
+                "Có sự phát triển không đồng đều về kinh tế",
+                "Các nước đều cho rằng mình có sức mạnh cạnh tranh riêng",
+                "Làm nảy sinh những bất đồng do mâu thuẫn về việc phân chia quyền lợi"
+            ]
+        },
+        {
+            "question": "Chiến tranh thế giới thứ nhất kết thúc, các nước tư bản đã tổ chức Hội nghị hòa bình ở:",
+            "answer": "Vécxai (1919 - 1920) và Oa-sinh-tơn (1921 - 1922)",
+            "choices": [
+                "Ma-đrit (1919 - 1920) và Niu Iooc (1921 - 1922)",
+                "Vécxai (1919 - 1920) và Oa-sinh-tơn (1921 - 1922)",
+                "Hen-xin-ki (1919 - 1920) và Lốt An-giơ-lét (1921 - 1922)",
+                "Cô-pen-ha-ghen (1919 - 1920) và Xan Phran-xix-cô (1921 - 1922)"
+            ]
+        },
+        {
+            "question": "Các nước tư bản đã tổ chức Hội nghị hòa bình ở Vécxai (1919 - 1920) và Oa-sinh-tơn (1921 -1922) để:",
+            "answer": "kí kết hòa ước và các hiệp ước phân chia quyền lợi",
+            "choices": [
+                "đưa ra các giải pháp hợp tác về kinh tế, khoa học - kĩ thuật",
+                "kí kết hòa ước và các hiệp ước phân chia quyền lợi",
+                "bàn về việc giải quyết những hậu quả của chiến tranh gây ra",
+                "tiến hành kí kết các hiệp ước về quân sự, an ninh, đối ngoại, môi trường,..."
+            ]
+        },
+        {
+            "question": "Hội nghị Vécxai (1919 - 1920) và Oa-sinh-tơn (1921 - 1922) đã:",
+            "answer": "thiết lập một trật tự thế giới mới",
+            "choices": [
+                "phá vỡ trật tự thế giới cũ",
+                "phân định lại thị trường, thuộc địa",
+                "thiết lập một trật tự thế giới mới",
+                "xác lập sự áp đặt, nô dịch đối với các nước bại trận"
+            ]
+        },
+        {
+            "question": "Sau Chiến tranh thế giới thứ nhất, các nước thắng trận giành được nhiều quyền lợi thông qua hệ thống Vécxai - Oasinhtơn, trước hết là:",
+            "answer": "Anh, Pháp, Mĩ, Nhật Bản",
+            "choices": [
+                "Pháp, Đức, Mĩ, Anh",
+                "Anh, Pháp, Mĩ, Nhật Bản",
+                "Nhật Bản, Italia, Pháp, Mĩ",
+                "Liên Xô, Anh, Pháp, Mĩ"
+            ]
+        },
+        {
+            "question": "Với việc kí kết hòa ước và các hiệp ước phân chia quyền lợi giữa các nước tư bản khi Chiến tranh thế giới thứ nhất kết thúc, quan hệ quốc tế lúc này có điểm gì mới?",
+            "answer": "Một trật tự thế giới mới đã được thiết lập",
+            "choices": [
+                "Cục diện các nước tư bản đối đầu với nhau",
+                "Một trật tự thế giới mới đã được thiết lập",
+                "Diễn ra cuộc đối đầu giữa các nước tư bản với Liên Xô",
+                "Thành lập tổ chức Liên hợp quốc để duy trì hòa bình, an ninh thế giới"
+            ]
+        },
+        {
+            "question": "Với hệ thống Vécxai - Oasinhton, các nước thắng trận, trước hết là Anh, Pháp, Mĩ, Nhật Bản giành được:",
+            "answer": "nhiều quyền lợi về kinh tế và xác lập sự áp đặt, nô dịch đối với các nước bại trận",
+            "choices": [
+                "ưu thế lớn về mặt quân sự",
+                "những ưu thế về mặt chính trị",
+                "ưu thế về ngoại giao cũng như vị thế trên trường quốc tế",
+                "nhiều quyền lợi về kinh tế và xác lập sự áp đặt, nô dịch đối với các nước bại trận"
+            ]
+        },
+        {
+            "question": "Các nước tiến hành những cải cách kinh tế - xã hội để khắc phục những hậu quả của cuộc khủng hoảng 1929 - 1933 và đổi mới quá trình quản lí, tổ chức sản xuất là:",
+            "answer": "Mĩ, Anh, Pháp",
+            "choices": [
+                "Pháp, Mĩ, Nhật Bản",
+                "Anh, Pháp, Đức",
+                "Mĩ, Anh, Pháp",
+                "Đức, I-ta-li-a, Nhật Bản"
+            ]
+        },
+        {
+            "question": "Sự kiện lịch sử diễn ra ở Đức vào ngày 30 - 1 - 1933 là:",
+            "answer": "Tổng thống Hin-đen-bua chỉ định Hít-le làm Thủ tướng và thành lập chính phủ mới",
+            "choices": [
+                "Đảng Cộng sản Đức đã kêu gọi quần chúng đấu tranh để thành lập Mặt trận thống nhất chống chủ nghĩa phát xít",
+                "Đảng Đảng Xã hội dân chủ - đảng có ảnh hưởng trong quần chúng nhân dân lao động - đã từ chối hợp tác với Đảng Cộng sản Đức",
+                "Giai cấp tư sản cầm quyền tuyên bố xóa bỏ chế độ cộng hòa tư sản, nhằm đưa đất nước vượt qua cuộc khủng hoảng kinh tế",
+                "Tổng thống Hin-đen-bua chỉ định Hít-le làm Thủ tướng và thành lập chính phủ mới"
+            ]
+        },
+        {
+            "question": "Năm 1934, sau khi Tổng thống Hin-đen-bua qua đời, Hít-le tuyên bố hủy bỏ Hiến pháp Vaima, tự xưng là:",
+            "answer": "Quốc trưởng suốt đời",
+            "choices": [
+                "Tướng quân",
+                "Đại Tổng thống",
+                "Thủ tướng",
+                "Quốc trưởng suốt đời"
+            ]
+        }
+    ],
+    "__count__": 40
+}
