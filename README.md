@@ -1,13 +1,11 @@
-# I. Introduction
+# Introduction
 
-# II. Setup Virtual Enviroment
+# How to run
 
-Mở Terminal trong Visual Studio Code
-
-Gõ:
+Create Ptthon virtual enviroment
 
 ```
-python -m venv .env
+python -m venv .venv
 ```
 
 ```
