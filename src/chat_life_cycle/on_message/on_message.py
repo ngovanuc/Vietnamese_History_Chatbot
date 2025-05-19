@@ -24,11 +24,11 @@ from src.llms.gpt import gpt_4_32k
 
 from src.chat_with.model_routing import model_routing
 
-from src.prompts.question_answering import QUESTION_ANSWERING
+from src.prompts.question_answering_prompt import QUESTION_ANSWERING_PROMPT
 
 
 async def on_message(message: cl.Message):
-    prompt = ChatPromptTemplate.from_template(QUESTION_ANSWERING)
+    prompt = ChatPromptTemplate.from_template(QUESTION_ANSWERING_PROMPT)
     llm_model = model_routing()
     chain: Runnable = prompt | llm_model | StrOutputParser()
 
@@ -41,7 +41,7 @@ async def on_message(message: cl.Message):
     }
 
     if cl.user_session.get("chat_settings")["Streaming"]:
-        async for chunk in chain.astream(prompt_mapping, config=RunnableConfig(callbacks=[callback])):
+        async for chunk in chain.astream(input=prompt_mapping, config=RunnableConfig(callbacks=[callback])):
             await stream_msg.stream_token(chunk)
         await stream_msg.send()
     

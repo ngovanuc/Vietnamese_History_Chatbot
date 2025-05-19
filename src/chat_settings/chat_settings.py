@@ -17,9 +17,9 @@ chat_settings = [
     Slider(
         id="Temperature",
         label="Temperature",
-        initial=1,
+        initial=0.5,
         min=0,
-        max=2,
+        max=1.0,
         step=0.1,
         description="Giá trị cao cho phản hồi phong phú hơn"
     ),
