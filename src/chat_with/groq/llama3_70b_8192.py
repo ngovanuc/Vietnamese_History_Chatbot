@@ -1,6 +1,6 @@
 from langchain_groq import ChatGroq
 
-from source.llms.groq import llama3_70b_8192
+from src.llms.groq import llama3_70b_8192
 
 
 def chat_with_llama3_70b_8192(streaming, temperature):
