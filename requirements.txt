@@ -1,0 +1,8 @@
+chainlit==2.4.302
+langchain==0.3.21
+langgraph==0.4.5
+langchain_core==0.3.49
+langchain_openai==0.3.11
+langchain_cohere==0.4.3
+langchain_groq==0.3.1
+qdrant-client==1.13.3
