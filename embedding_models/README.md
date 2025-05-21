@@ -59,3 +59,11 @@ git clone https://huggingface.co/VoVanPhuc/sup-SimCSE-VietNamese-phobert-base
 ```
 git clone https://huggingface.co/dangvantuan/vietnamese-embedding
 ```
+
+## sentence-transformers/all-MiniLM-L6-v2
+
+- Hoạt động tốt trên tài liệu tiếng Anh
+
+```
+git clone https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+```
