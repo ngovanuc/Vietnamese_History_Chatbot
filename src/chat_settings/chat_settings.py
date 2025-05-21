@@ -8,7 +8,13 @@ chat_settings = [
     Select(
         id="Model",
         label="Chọn mô hình",
-        values=["command-a-03-2025", "llama3-70b-8192","gpt-3.5-turbo (alpha)"],
+        values=[
+            "command-a-03-2025",
+            "llama3-70b-8192",
+            "gemini-2.0-flash",
+            "claude-3-7-sonnet-20250219",
+            "gpt-3.5-turbo (alpha)",
+        ],
         initial_index=0,
     ),
 

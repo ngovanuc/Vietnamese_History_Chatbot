@@ -16,4 +16,4 @@ Starter 04:{{"label": "Các triều đại phong kiến Việt Nam.", "message":
 Starter 05:{{"label": "Lịch sử Thành Cổ Loa.", "message": "Thành Cổ Loa có từ thời nào? Ai xây?"}}
 
 Không giải thích gì thêm!
-"""
+""" 

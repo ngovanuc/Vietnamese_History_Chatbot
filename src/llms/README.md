@@ -1,3 +1,0 @@
-# THESE ARE LLM PROVIDERS
-
-For more information, please...
