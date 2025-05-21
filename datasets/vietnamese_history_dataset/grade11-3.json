@@ -1,0 +1,406 @@
+{
+    "name": "Đề ôn tập lớp 11 - Đề 3",
+    "questions": [
+        {
+            "question": "Hướng đi tìm đường cứu nước của Nguyễn Ái Quốc khác với hướng đi của những người đi trước là",
+            "answer": "Đi sang phương Tây tìm đường cứu nước.",
+            "choices": [
+                "Đi từ chủ nghĩa yêu nước đến với chủ nghĩa vô sản.",
+                "Đi từ chủ nghĩa yêu nước đến với chủ nghĩa Mác –lê nin.",
+                "Đi sang phương Tây tìm đường cứu nước.",
+                "Đi từ chủ nghĩa yêu nước đến với chủ nghĩa cộng sản."
+            ]
+        },
+        {
+            "question": "“Triều đình nhà Nguyễn chính thức thừa nhận sáu tỉnh Nam Kỳ là đất thuộc Pháp, công nhận quyền đi lại, buôn bán, kiểm soát và điều tra tình hình ở Việt Nam của chúng”. Điều khoản trên được qui định trong Hiệp ước nào?",
+            "answer": "Giáp Tuất.",
+            "choices": [
+                "Patơnốt.",
+                "Hácmăng.",
+                "Nhâm Tuất.",
+                "Giáp Tuất."
+            ]
+        },
+        {
+            "question": "Ngày 13-7-1885, Tôn Thất Thuyết lấy danh vua Hàm Nghi xuống chiếu Cần vương, kêu gọi",
+            "answer": "văn thân, sĩ phu và nhân dân cả nước đứng lên vì vua mà kháng chiến.",
+            "choices": [
+                "các tầng lớp nhân dân quyết tâm kháng chiến để giành lại độc lập dân tộc",
+                "nhân dân cả nước đứng lên kháng chiến chống Pháp.",
+                "các giai cấp, các tầng lớp trong xã hội đứng lên kháng chiến chống Pháp.",
+                "văn thân, sĩ phu và nhân dân cả nước đứng lên vì vua mà kháng chiến."
+            ]
+        },
+        {
+            "question": "Tư tưởng đấu tranh hòa bình, bất bạo động của M.Gan-đi được các tầng lớp nhân dân Ấn Độ hưởng ứng vì",
+            "answer": "phù hợp với đặc điểm dân tộc và tôn giáo của Ấn Độ.",
+            "choices": [
+                "nhân dân Ấn Độ sợ bị tổn thất hi sinh.",
+                "phù hợp với đặc điểm dân tộc và tôn giáo của Ấn Độ.",
+                "dễ dàng được thực hiện ở mọi lúc, mọi nơi.",
+                "nhân dân Ấn Độ không có kinh nghiệm đấu tranh vũ trang."
+            ]
+        },
+        {
+            "question": "Cuộc khởi nghĩa lớn nhất và kéo dài nhất của nhân dân Lào chống lại ách cai trị của thực dân Pháp ở cuối thế kỉ XIX - đầu thế kỉ XX là",
+            "answer": "khởi nghĩa của Ong Kẹo và Com-ma-đam.",
+            "choices": [
+                "khởi nghĩa của Chậu Pa-chay.",
+                "khởi nghĩa của nông dân huyện Rô-lê-phan.",
+                "khởi nghĩa của Hoàng thân Si-vô-tha.",
+                "khởi nghĩa của Ong Kẹo và Com-ma-đam."
+            ]
+        },
+        {
+            "question": "Cuộc khởi nghĩa lớn nhất và kéo dài nhất của nhân dân Lào chống lại ách cai trị của thực dân Pháp ở cuối thế kỉ XIX - đầu thế kỉ XX là",
+            "answer": "khởi nghĩa của Ong kẹo và Com-ma-đam.",
+            "choices": [
+                "khởi nghĩa của Chậu-pa-chay.",
+                "khởi nghĩa của nông dân huyện Rô-lê-phan ở Công-pông Chơ-năng.",
+                "khởi nghĩa của Hoàng thân Si-vô-tha.",
+                "khởi nghĩa của Ong kẹo và Com-ma-đam."
+            ]
+        },
+        {
+            "question": "Tháng 8/1939, để bảo vệ quyền lợi quốc gia trong tình thế bị cô lập, Liên Xô đã",
+            "answer": "kí với Đức bản “Hiệp ước Xô - Đức không xâm lược nhau”.",
+            "choices": [
+                "kí với Đức bản “Hiệp ước Xô - Đức không xâm lược nhau”.",
+                "đưa quân sang Tiệp Khắc, giúp Tiệp Khắc chống xâm lược.",
+                "viện trợ quân sự, giúp đỡ nhân dân Trung Quốc đánh bại quân xâm lược Nhật Bản.",
+                "thông qua Đạo luật Trung lập - không can thiệp vào các sự kiện bên ngoài lãnh thổ Liên Xô."
+            ]
+        },
+        {
+            "question": "Tư tưởng đấu tranh hòa bình, bất bạo động của M.Gan-đi được các tầng lớp nhân dân Ấn Độ hưởng ứng vì",
+            "answer": "phù hợp với đặc điểm dân tộc và tôn giáo của Ấn Độ.",
+            "choices": [
+                "nhân dân Ấn Độ sợ bị tổn thất hi sinh.",
+                "dễ dàng được thực hiện ở mọi lúc, mọi nơi.",
+                "phù hợp với đặc điểm dân tộc và tôn giáo của Ấn Độ.",
+                "nhân dân Ấn Độ không có kinh nghiệm đấu tranh vũ trang."
+            ]
+        },
+        {
+            "question": "Cuộc khởi nghĩa lớn nhất và kéo dài nhất của nhân dân Lào chống lại ách cai trị của thực dân Pháp ở cuối thế kỉ XIX - đầu thế kỉ XX là",
+            "answer": "khởi nghĩa của Ong kẹo và Com-ma-đam.",
+            "choices": [
+                "khởi nghĩa của A-cha Xoa.",
+                "khởi nghĩa của Hoàng thân Si-vô-tha.",
+                "khởi nghĩa của Pha-ca-đuốc.",
+                "khởi nghĩa của Ong kẹo và Com-ma-đam."
+            ]
+        },
+        {
+            "question": "Tư tưởng đấu tranh hòa bình, bất bạo động của M.Gan-đi được các tầng lớp nhân dân Ấn Độ hưởng ứng vì",
+            "answer": "phù hợp với đặc điểm dân tộc và tôn giáo của Ấn Độ.",
+            "choices": [
+                "nhân dân Ấn Độ sợ bị tổn thất hi sinh.",
+                "dễ dàng được thực hiện ở mọi lúc, mọi nơi.",
+                "phù hợp với đặc điểm dân tộc và tôn giáo của Ấn Độ.",
+                "nhân dân Ấn Độ không có kinh nghiệm đấu tranh vũ trang."
+            ]
+        },
+        {
+            "question": "Cho các nhận định sau: 1. Mâu thuẫn về quyền lợi, thị trường và thuộc địa giữa các nước đế quốc sau Chiến tranh thế giới thứ nhất là nguyên nhân sâu xa dẫn tới Chiến tranh thế giới thứ hai. 2. Trận phản công của quân đội Liên Xô ở Xta-lin-grat đã tạo nên bước ngoặt, làm xoay chuyển tình thế của cuộc chiến tranh. 3. Chiến tranh thế giới thứ hai kết thúc đã dẫn đến những biến đổi căn bản của tình hình thế giới. 4. Giai đoạn đầu, Chiến tranh thế giới thứ hai là cuộc chiến tranh đế quốc phi nghĩa, từ khi Liên Xô tham chiến, tính chất của cuộc chiến tranh có sự thay đổi: tính chất phi nghĩa thuộc về phe phát xít; tính chất chính nghĩa thuộc về các dân tộc đã kiên cường chống chủ nghĩa phát xít, bảo về hòa bình thế giới. Trong số các nhận định trên, có bao nhiêu nhận định chính xác?",
+            "answer": "4 nhận định.",
+            "choices": [
+                "1 nhận định.",
+                "2 nhận định.",
+                "3 nhận định.",
+                "4 nhận định."
+            ]
+        },
+        {
+            "question": "Con đường đi tìm đường cứu nước của Nguyễn Ái Quốc khác với con đường cứu nước của Phan Bội Châu, Phan Châu Trinh là",
+            "answer": "đi sang phương Tây tìm đường cứu nước.",
+            "choices": [
+                "đi sang phương Tây tìm đường cứu nước.",
+                "đi sang châu Mĩ tìm đường cứu nước.",
+                "đi sang châu Phi tìm đường cứu nước.",
+                "đi sang phương Đông tìm đường cứu nước."
+            ]
+        },
+        {
+            "question": "Tư tưởng đấu tranh hòa bình, bất bạo động của M.Gan-đi được các tầng lớp nhân dân Ấn Độ hưởng ứng vì",
+            "answer": "phù hợp với đặc điểm dân tộc và tôn giáo của Ấn Độ.",
+            "choices": [
+                "nhân dân Ấn Độ sợ bị tổn thất hi sinh.",
+                "dễ dàng được thực hiện ở mọi lúc, mọi nơi.",
+                "phù hợp với đặc điểm dân tộc và tôn giáo của Ấn Độ.",
+                "nhân dân Ấn Độ không có kinh nghiệm đấu tranh vũ trang."
+            ]
+        },
+        {
+            "question": "Tháng 8/1939, để bảo vệ quyền lợi quốc gia trong tình thế bị cô lập, Liên Xô đã",
+            "answer": "kí với Đức bản “Hiệp ước Xô - Đức không xâm lược nhau”.",
+            "choices": [
+                "kí với Đức bản “Hiệp ước Xô - Đức không xâm lược nhau”.",
+                "đưa quân sang Tiệp Khắc, giúp Tiệp Khắc chống xâm lược.",
+                "viện trợ quân sự, giúp đỡ nhân dân Trung Quốc đánh bại quân xâm lược Nhật Bản.",
+                "thông qua Đạo luật Trung lập - không can thiệp vào các sự kiện xảy ra bên ngoài Liên Xô."
+            ]
+        },
+        {
+            "question": "Cho các nhận định sau: 1. Mâu thuẫn về quyền lợi, thị trường và thuộc địa giữa các nước đế quốc sau Chiến tranh thế giới thứ nhất là nguyên nhân sâu xa dẫn tới Chiến tranh thế giới thứ hai. 2. Trận phản công của quân đội Liên Xô ở Xta-lin-grát đã tạo nên bước ngoặt, làm xoay chuyển tình thế của cuộc chiến tranh. 3. Chiến tranh thế giới thứ hai kết thúc đã dẫn đến những biến đổi căn bản của tình hình thế giới. 4. Giai đoạn đầu, Chiến tranh thế giới thứ hai là cuộc chiến tranh đế quốc phi nghĩa, từ khi Liên Xô tham chiến, tính chất của cuộc chiến tranh có sự thay đổi: tính chất phi nghĩa thuộc về phe phát xít; tính chất chính nghĩa thuộc về các dân tộc đã kiên cường chống chủ nghĩa phát xít, bảo về hòa bình thế giới. Trong số các nhận định trên, có bao nhiêu nhận định chính xác?",
+            "answer": "4 nhận định.",
+            "choices": [
+                "1 nhận định.",
+                "2 nhận định.",
+                "3 nhận định.",
+                "4 nhận định."
+            ]
+        },
+        {
+            "question": "Yếu tố nào chi phối làm cho đế quốc Nhật Bản mang đặc điểm là chủ nghĩa đế quốc phong kiến quân phiệt?",
+            "answer": "Vừa tiến lên tư bản chủ nghĩa, vừa duy trì quyền sở hữu ruộng đất phong kiến, chủ trương xây dựng nước Nhật bằng sức mạnh quân sự",
+            "choices": [
+                "Vừa tiến lên tư bản chủ nghĩa, vừa duy trì chế độ phong kiến, chủ trương xây dựng nước Nhật bằng sức mạnh kinh tế",
+                "Vừa tiến lên tư bản chủ nghĩa, vừa duy trì quyền sở hữu ruộng đất phong kiến, chủ trương xây dựng nước Nhật bằng sức mạnh kinh tế",
+                "Vừa tiến lên tư bản chủ nghĩa, vừa duy trì chế độ phong kiến, chủ trương xây dựng nước Nhật bằng sức mạnh quân sự",
+                "Vừa tiến lên tư bản chủ nghĩa, vừa duy trì quyền sở hữu ruộng đất phong kiến, chủ trương xây dựng nước Nhật bằng sức mạnh quân sự"
+            ]
+        },
+        {
+            "question": "Lựa chọn phương án phù hợp để hoàn thiện đoạn tư liệu sau về phong trào công nhân ở Nhật Bản cuối thế kỉ XIX: “Đảng Xã hội dân chủ Nhật Bản được thành lập năm 1901 do………. một người bạn của Nguyễn Ái Quốc trong Quốc tế Cộng sản, đứng đầu. Xuất hân từ …………… ở Tôkiô, năm 23 tuổi, ông đã tham gia tích cực rồi trở hành lãnh đạo của phong trào công nhân đường sắt.”.",
+            "answer": "Cataiama Xen …………………………….. công nhân in",
+            "choices": [
+                "Cataiama Xen ………………………………. công nhân đường sắt",
+                "Abe Shinzô ………………………………… công nhân dệt may",
+                "Abe Shinzô ………………………………… công nhân đóng tàu",
+                "Cataiama Xen …………………………….. công nhân in"
+            ]
+        },
+        {
+            "question": "Để tạo chỗ dựa vững chắc cho nền thống trị của mình tại Ấn Độ, thực dân Anh đã thực hiện thủ đoạn:",
+            "answer": "Chia để trị",
+            "choices": [
+                "Dung dưỡng giai cấp tư sản Ấn Độ",
+                "Loại bỏ các thế lực chống đối",
+                "Câu kết với các chúa phong kiến Ấn Độ",
+                "Chia để trị"
+            ]
+        },
+        {
+            "question": "Điểm khác biệt giữa cao trào cách mạng 1905 – 1908 với các phong trào trước đó ở Ấn Độ là:",
+            "answer": "Do một bộ phận giai cấp tư sản lãnh đạo, mang đậm ý thức dân tộc, đấu tranh cho một nước Ấn Độ độc lập và dân chủ",
+            "choices": [
+                "Có sự tham gia đông đảo của hàng vạn công nhân ở nhiều thành phố trên cả nước",
+                "Có quy mô lớn, nêu cao khẩu hiệu đấu tranh “Ấn Độ của người Ấn Độ”",
+                "Diễn ra dưới hình thức một cuộc tổng bãi công, lan rộng ra nhiều thành phố",
+                "Do một bộ phận giai cấp tư sản lãnh đạo, mang đậm ý thức dân tộc, đấu tranh cho một nước Ấn Độ độc lập và dân chủ"
+            ]
+        },
+        {
+            "question": "Từ thế kỉ XVIII, nhất là sang thế kỉ XIX, Trung Quốc đứng trước nguy cơ trở thành:",
+            "answer": "“miếng mồi” cho các nước đế quốc phân chia, xâu xé",
+            "choices": [
+                "“sân sau” của các nước đế quốc",
+                "“ván bài” trao đổi giữa các nước đế quốc",
+                "“quân cờ” cho các nước đế quốc điều khiển",
+                "“miếng mồi” cho các nước đế quốc phân chia, xâu xé"
+            ]
+        },
+        {
+            "question": "Lực lượng tham gia Trung Quốc Đồng minh hội là:",
+            "answer": "Trí thức tư sản, tiểu tư sản, địa chủ, thân sĩ bất bình với nhà Thanh, đại biểu công nông",
+            "choices": [
+                "Công nhân, trí thức tư sản, địa chủ, thân sĩ bất bình với nhà Thanh",
+                "Nông dân, trí thức tư sản,địa chủ, thân sĩ bất bình với nhà Thanh",
+                "Trí thức tư sản, tiểu tư sản, địa chủ, thân sĩ bất bình với nhà Thanh, đại biểu công nông",
+                "Công nhân, nông dân, trí thức tư sản, tiểu tư sản, địa chủ, thân sĩ bất bình với nhà Thanh"
+            ]
+        },
+        {
+            "question": "Nguyên nhân trực tiếp dẫn đến cuộc khởi nghĩa của Hoàng thân Sivôtha chống thực dân Pháp ở Campuchia là:",
+            "answer": "Ách thống trị của thực dân Pháp gây nên nỗi bất bình trong hoàng tộc và các tầng lớp nhân dân",
+            "choices": [
+                "Ách áp bức bóc lột của chế độ phong kiến",
+                "Giai cấp phong kiến câu kết với thực dân Pháp đàn áp nhân dân",
+                "Thái độ nhu nhược của triều đình đối với quân Xiêm",
+                "Ách thống trị của thực dân Pháp gây nên nỗi bất bình trong hoàng tộc và các tầng lớp nhân dân"
+            ]
+        },
+        {
+            "question": "Ý nào không phản ánh đúng nguyên nhân chủ quan dẫn đến sự thất bại của các cuộc đấu tranh chống thực dân Pháp xâm lược của nhân dân Đông Dương cuối thế kỉ XIX – đầu thế kỉ XX?",
+            "answer": "Lực lượng quân Pháp ở Đông Dương rất mạnh, đủ sức đàn áp phong trào",
+            "choices": [
+                "Mang tính tự phát",
+                "Lực lượng quân Pháp ở Đông Dương rất mạnh, đủ sức đàn áp phong trào",
+                "Thiếu đường lối đúng đắn và thiếu tổ chức mạnh",
+                "Chưa có sự đoàn kết, phối hợp đấu tranh"
+            ]
+        },
+        {
+            "question": "Từ thời vua Môngkút (Rama IV, trị vì từ năm 1851 đến năm 1868), nước Xiêm (Thái Lan) đã thực hiện chủ trương gì để phát triển đất nước?",
+            "answer": "Mở cửa buôn bán với bên ngoài.",
+            "choices": [
+                "Kêu gọi vốn đầu tư từ nước ngoài",
+                "Mở cửa buôn bán với bên ngoài.",
+                "Kêu gọi sự ủng hộ của Pháp",
+                "Ban bố các đạo luật nhằm phát triển kinh tế"
+            ]
+        },
+        {
+            "question": "Chính sách ngoại giao mềm dẻo của Xiêm được thể hiện ở việc:",
+            "answer": "Vừa lợi dụng vị trí nước “đệm” giữa hai thế lực Anh – Pháp vừa cắt nhượng một số vùng đất phụ thuộc để giữ gìn chủ quyền",
+            "choices": [
+                "Vừa lợi dụng Anh - Pháp vừa tiến hành cải cách để tạo nguồn lực cho đất nước",
+                "Vừa lợi dụng vị trí nước “đệm” giữa hai thế lực Anh – Pháp vừa cắt nhượng một số vùng đất phụ thuộc để giữ gìn chủ quyền",
+                "Vừa lợi dụng vị trí nước “đệm” vừa chấp nhận kí kết hiệp ước bất bình đẳng với các đế quốc Anh, Pháp",
+                "Vừa lợi dụng vị trí nước “đệm” vừa phát huy nguồn lực của đất nước để phát triển"
+            ]
+        },
+        {
+            "question": "Trước sự đe dọa xâm lược của các nước phương Tây, Xiêm đã thực hiện chính sách gì để bảo vệ nền độc lập dân tộc của mình?",
+            "answer": "Mở cửa buôn bán với bên ngoài, lợi dụng sự kiềm chế lẫn nhau giữa các nước tư bản",
+            "choices": [
+                "Xây dựng lực luợng quân sự hùng mạnh",
+                "Dựa vào các thế lực phong kiến ở các nước láng giềng",
+                "Đẩy mạnh phát triển các ngành kinh tế trong nước",
+                "Mở cửa buôn bán với bên ngoài, lợi dụng sự kiềm chế lẫn nhau giữa các nước tư bản"
+            ]
+        },
+        {
+            "question": "Cuộc khởi nghĩa chống thực dân Pháp của nhân dân Lào (1901 - 1903) dưới sự chỉ huy của Pha-ca-đuốc đã phát triển nhanh chóng, giải phóng:",
+            "answer": "Xa-van-na-khét",
+            "choices": [
+                "Bat-tam-bang",
+                "Xtưng Treng",
+                "Phnôm Pênh",
+                "Xa-van-na-khét"
+            ]
+        },
+        {
+            "question": "Ai là người chỉ huy cuộc khởi nghĩa chống thực dân Pháp trên cao nguyên Bô-lô-ven, nổ ra năm 1901 và kéo dài đến năm 1937?",
+            "answer": "Ong Kẹo, Com-ma-đam",
+            "choices": [
+                "Pu-côm-bô",
+                "A-cha Xoa",
+                "Pha-ca-đuốc",
+                "Ong Kẹo, Com-ma-đam"
+            ]
+        },
+        {
+            "question": "Người đã xóa bỏ chế độ nô lệ vì nợ, xóa bỏ cho nông dân nghĩa vụ lao dịch 3 tháng trên các công trường nhà nước, giảm nhẹ thuế ruộng ở Vương quốc Xiêm là:",
+            "answer": "Ra-ma V",
+            "choices": [
+                "Ra-ma IV",
+                "Ra-ma V",
+                "Nô-rô-đôm",
+                "Com-ma-đam"
+            ]
+        },
+        {
+            "question": "Ra-ma V đã cắt nhượng một số vùng đất phụ thuộc vốn là lãnh thổ của các nước nào để giữ gìn chủ quyền của đất nuớc Xiêm?",
+            "answer": "Cam-pu-chia, Lào, Mã Lai",
+            "choices": [
+                "Miến Điện, Ma-lai-xi-a",
+                "Mã Lai, Lào",
+                "Mã Lai, Miến Điện, Cam-pu-chia",
+                "Cam-pu-chia, Lào, Mã Lai"
+            ]
+        },
+        {
+            "question": "Ngay từ thế kỉ XV, XVI thực dân Tây Ban Nha, Bồ Đào Nha, Hà Lan đã có mặt và từng bước chiếm lĩnh thị trường ở",
+            "answer": "In-đô-nê-xi-a",
+            "choices": [
+                "Phi-líp-pin",
+                "Mã Lai",
+                "In-đô-nê-xi-a",
+                "Miến Điện"
+            ]
+        },
+        {
+            "question": "Ở In-đô-nê-xi-a, ngay từ thế kỉ XV, XVI, thực dân phương Tây đã có mặt và từng bước chiếm lĩnh thị trường gồm:",
+            "answer": "Tây Ban Nha, Bồ Đào Nha, Hà Lan",
+            "choices": [
+                "Hà Lan, Tây Ban Nha, Pháp",
+                "Tây Ban Nha, Bồ Đào Nha, Hà Lan",
+                "Anh, Tây Ban Nha, Bồ Đào Nha",
+                "Bồ Đào Nha, Pháp, Hà Lan"
+            ]
+        },
+        {
+            "question": "Ở In-đô-nê-xi-a, ngay từ thế kỉ nào thực dân Tây Ban Nha, Bồ Đào Nha, Hà Lan đã có mặt và từng bước chiếm lĩnh thị trường?",
+            "answer": "XV, XVI",
+            "choices": [
+                "XIII, XIV",
+                "XV, XVI",
+                "XVII, XVIII",
+                "XIX, XX"
+            ]
+        },
+        {
+            "question": "Hà Lan hoàn thành việc xâm chiếm và thiết lập nền thống trị thực dân trên đất nước In-đô-nê-xi-a vào thời gian nào?",
+            "answer": "Giữa thế kỉ XIX",
+            "choices": [
+                "Giữa thế kỉ XVIII",
+                "Cuối thế kỉ XVIII",
+                "Đầu thế kỉ XIX",
+                "Giữa thế kỉ XIX"
+            ]
+        },
+        {
+            "question": "Đến giữa thế kỉ XIX, Hà Lan đã hoàn thành việc xâm chiếm và thiết lập nền thống trị trên đất nước",
+            "answer": "In-đô-nê-xi-a",
+            "choices": [
+                "Phi-líp-pin",
+                "Miến Điện",
+                "Mã Lai",
+                "In-đô-nê-xi-a"
+            ]
+        },
+        {
+            "question": "Đến giữa thế kỉ XIX, nước nào đã hoàn thành việc xâm chiếm và thiết lập nền thống trị trên đất nước In-đô-nê-xi-a?",
+            "answer": "Hà Lan",
+            "choices": [
+                "Tây Ban Nha",
+                "Hà Lan",
+                "Bồ Đào Nha",
+                "Pháp"
+            ]
+        },
+        {
+            "question": "Xiêm là nước duy nhất ở Đông Nam Á giữ được nền độc lập tương đối về chính trị vào nửa sau thế kỉ XIX là do?",
+            "answer": "Chính sách ngoại giao mềm dẻo, khôn khéo của vua Ra-ma V",
+            "choices": [
+                "Đất nước bước sang thời kì tư bản chủ nghĩa",
+                "Được sự giúp đỡ và bảo hộ của Mĩ",
+                "Những cải cách về chính trị của vua Ra-ma IV",
+                "Chính sách ngoại giao mềm dẻo, khôn khéo của vua Ra-ma V"
+            ]
+        },
+        {
+            "question": "Pháp buộc vị vua nào kí Hiệp ước 1884, biến Cam-pu-chia thành thuộc địa của Pháp?",
+            "answer": "Nô-rô-đôm",
+            "choices": [
+                "Giay-a-véc-man",
+                "Si-vô-tha",
+                "A-cha Xoa",
+                "Nô-rô-đôm"
+            ]
+        },
+        {
+            "question": "Cuộc khởi nghĩa nào sau đây diễn ra từ năm 1866 đến năm 1867 và là biểu tượng về liên minh chiến đấu của nhân dân hai nước Việt Nam và Cam-pu-chia trong cuộc đấu tranh chống thực dân Pháp xâm lược?",
+            "answer": "Pu-côm-bô",
+            "choices": [
+                "Pu-côm-bô",
+                "Hoàng thân Si-vô-tha",
+                "Ong Kẹo và Com-ma-đam",
+                "A-cha Xoa"
+            ]
+        },
+        {
+            "question": "Trong các cuộc khởi nghĩa chống thực dân Pháp của nhân dân Lào, cuộc khởi nghĩa nào giải phóng Xa-van-na-khét, mở rộng hoạt động sang cả vùng biên giới Lào - Việt?",
+            "answer": "Khởi nghĩa dưới sự chỉ huy của Pha-ca-đuốc",
+            "choices": [
+                "Khởi nghĩa của A-cha Xoa",
+                "Khởi nghĩa của Pu-côm-bô",
+                "Khởi nghĩa dưới sự chỉ huy của Pha-ca-đuốc",
+                "Khởi nghĩa do Ong Kẹo, Com-ma-đam chỉ huy."
+            ]
+        }
+    ],
+    "__count__": 40
+}
