@@ -1,3 +1,4 @@
+.data/
 audio_models/whisper/*
 
 embedding_models/all-MiniLM-L6-v2/
@@ -7,4 +8,8 @@ embedding_models/sup-SimCSE-VietNamese-phobert-base/
 embedding_models/vietnamese-bi-encoder/
 embedding_models/vietnamese-embedding/
 
+node_modules/
+
 saved_api_keys.txt
+.env
+
