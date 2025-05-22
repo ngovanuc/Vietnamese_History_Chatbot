@@ -1,0 +1,10 @@
+audio_models/whisper/*
+
+embedding_models/all-MiniLM-L6-v2/
+embedding_models/distiluse-base-multilingual-cased-v2/
+embedding_models/multilingual-e5-small/
+embedding_models/sup-SimCSE-VietNamese-phobert-base/
+embedding_models/vietnamese-bi-encoder/
+embedding_models/vietnamese-embedding/
+
+saved_api_keys.txt
