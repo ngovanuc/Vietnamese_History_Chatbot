@@ -3,9 +3,11 @@ from typing import Dict
 
 import chainlit as cl
 
+from src.chat_life_cycle.password_auth_callback import password_auth_callback
 from src.starters.set_starters import set_starters
 from src.chat_settings.on_settings_update import update_settings
 from src.chat_life_cycle.on_chat_start import on_chat_start
+from src.chat_life_cycle.on_chat_resume import on_chat_resume
 from src.chat_life_cycle.on_message.on_message import on_message
 from src.chat_life_cycle.on_audio_chunk import on_audio_chunk
 from src.chat_life_cycle.on_audio_end import on_audio_end
@@ -15,9 +17,11 @@ from src.chat_life_cycle.on_chat_end import on_chat_end
 from src.chat_life_cycle.on_loggout import on_logout
 
 
+cl.password_auth_callback(password_auth_callback)
 # cl.set_starters(set_starters)
 cl.on_settings_update(update_settings)
 cl.on_chat_start(on_chat_start)
+cl.on_chat_resume(on_chat_resume)
 cl.on_message(on_message)
 cl.on_audio_chunk(on_audio_chunk)
 cl.on_audio_end(on_audio_end)
