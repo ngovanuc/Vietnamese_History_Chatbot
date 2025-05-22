@@ -14,3 +14,7 @@ langchain-google-genai==2.1.4
 langchain-qdrant==0.2.0
 anthropic==0.28.1
 langchain-anthropic==0.3.13
+openai-whisper==20240930
+openai==1.69.0
+mistralai==1.7.0
+langchain_mistralai==0.2.10
