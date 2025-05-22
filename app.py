@@ -15,7 +15,7 @@ from src.chat_life_cycle.on_chat_end import on_chat_end
 from src.chat_life_cycle.on_loggout import on_logout
 
 
-cl.set_starters(set_starters)
+# cl.set_starters(set_starters)
 cl.on_settings_update(update_settings)
 cl.on_chat_start(on_chat_start)
 cl.on_message(on_message)
