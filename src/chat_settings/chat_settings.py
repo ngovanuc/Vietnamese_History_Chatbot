@@ -9,10 +9,12 @@ chat_settings = [
         id="Model",
         label="Chọn mô hình",
         values=[
+            "base_model",
             "command-a-03-2025",
             "llama3-70b-8192",
             "gemini-2.0-flash",
             "claude-3-7-sonnet-20250219",
+            "mistral-large-latest",
             "gpt-3.5-turbo (alpha)",
         ],
         initial_index=0,
