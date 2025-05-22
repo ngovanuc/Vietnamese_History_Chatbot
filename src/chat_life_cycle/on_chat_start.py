@@ -8,4 +8,4 @@ async def on_chat_start():
     print("[LOG] Initializing chat setting...")
     await cl.ChatSettings(chat_settings).send()
     print("[LOG] New chat setting initialized!")
-    print("chat setting: ", cl.user_session.get("chat_setting"))
+    print("chat setting: ", cl.user_session.get("chat_setting"))    
