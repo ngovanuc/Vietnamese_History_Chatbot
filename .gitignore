@@ -2,12 +2,14 @@
 audio_models/whisper/*
 
 embedding_models/all-MiniLM-L6-v2/
+embedding_models/bert-base-vietnamese-uncased/
 embedding_models/distiluse-base-multilingual-cased-v2/
 embedding_models/multilingual-e5-small/
+embedding_models/phobert-base-v2/
+embedding_models/phobert-large/
 embedding_models/sup-SimCSE-VietNamese-phobert-base/
 embedding_models/vietnamese-bi-encoder/
 embedding_models/vietnamese-embedding/
-embedding_models/gte-multilingual-base/
 
 node_modules/
 
