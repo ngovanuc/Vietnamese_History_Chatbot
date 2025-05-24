@@ -10,7 +10,15 @@ Lưu ý: Để có thể clone các mô hình này về máy, hãy đảm bảo 
 git lfs install
 ```
 
-## sentence-transformers/distiluse-base-multilingual-cased-v2
+## sentence-transformers/all-MiniLM-L6-v2
+
+- Hoạt động tốt trên tài liệu tiếng Anh
+
+```
+git clone https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+```
+
+sentence-transformers/distiluse-base-multilingual-cased-v2
 
 * Hỗ trợ đa ngôn ngữ (bao gồm cả tiếng Việt)
 * Nhẹ
@@ -20,14 +28,16 @@ git lfs install
 git clone https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2
 ```
 
-## bkai-foundation-models/vietnamese-bi-encoder
-
-* Bi-encoder nhẹ cho tiếng Việt
-* Phù hợp với nhiệm vụ semantic search
-* Mô hình nhỏ, nhanh. Có thể chạy trên CPU
+## trituenhantaoio/bert-base-vietnamese-uncased
 
 ```
-git clone https://huggingface.co/bkai-foundation-models/vietnamese-bi-encoder
+git clone https://huggingface.co/trituenhantaoio/bert-base-vietnamese-uncased
+```
+
+## sentence-transformers/distiluse-base-multilingual-cased-v2
+
+```
+git clone https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2
 ```
 
 ## intfloat/multilingual-e5-small
@@ -41,6 +51,18 @@ git clone https://huggingface.co/bkai-foundation-models/vietnamese-bi-encoder
 git clone https://huggingface.co/intfloat/multilingual-e5-small
 ```
 
+## vinai/phobert-base-v2
+
+```
+git clone https://huggingface.co/vinai/phobert-base-v2
+```
+
+## vinai/phobert-large
+
+```
+git clone https://huggingface.co/vinai/phobert-large
+```
+
 ## VoVanPhuc/sup-SimCSE-VietNamese-phobert-base
 
 * Được tối ưu cho tiếng Việt
@@ -48,6 +70,16 @@ git clone https://huggingface.co/intfloat/multilingual-e5-small
 
 ```
 git clone https://huggingface.co/VoVanPhuc/sup-SimCSE-VietNamese-phobert-base
+```
+
+## bkai-foundation-models/vietnamese-bi-encoder
+
+* Bi-encoder nhẹ cho tiếng Việt
+* Phù hợp với nhiệm vụ semantic search
+* Mô hình nhỏ, nhanh. Có thể chạy trên CPU
+
+```
+git clone https://huggingface.co/bkai-foundation-models/vietnamese-bi-encoder
 ```
 
 ## dangvantuan/vietnamese-embedding
@@ -58,12 +90,4 @@ git clone https://huggingface.co/VoVanPhuc/sup-SimCSE-VietNamese-phobert-base
 
 ```
 git clone https://huggingface.co/dangvantuan/vietnamese-embedding
-```
-
-## sentence-transformers/all-MiniLM-L6-v2
-
-- Hoạt động tốt trên tài liệu tiếng Anh
-
-```
-git clone https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 ```
