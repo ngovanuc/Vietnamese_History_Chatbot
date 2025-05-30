@@ -9,9 +9,10 @@ embedding_models/phobert-base-v2/
 embedding_models/phobert-large/
 embedding_models/sup-SimCSE-VietNamese-phobert-base/
 embedding_models/vietnamese-bi-encoder/
-embedding_models/vietnamese-embedding/
+embedding_models/Vietnamese_Embedding/
 
 node_modules/
+qdrant_storage/collections/*
 
 saved_api_keys.txt
 .env
