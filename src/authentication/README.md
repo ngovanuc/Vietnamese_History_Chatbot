@@ -1,0 +1,4 @@
+# CHỨC NĂNG XÁC THỰC NGƯỜI DÙNG:
+
+- TẠO TÀI KHOẢN NGƯỜI DÙNG MỚI
+- ĐĂNG NHẬP TÀI KHOẢN NGƯỜI DÙNG
