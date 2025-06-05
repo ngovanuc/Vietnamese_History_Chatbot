@@ -15,7 +15,7 @@ else:
 user_database = "user_database"
 if user_database in client.list_database_names():
     print(f"Database {user_database} already exists.")
-    # database = client.user_database
+    database = client.user_database
 else:
     database = client.user_database
     print(f"Database {user_database} created.")
@@ -25,7 +25,7 @@ else:
 username_and_password = "username_and_password"
 if username_and_password in database.list_collection_names():
     print(f"Collection {username_and_password} already exists.")
-    # collection = database.username_and_password
+    collection = database.username_and_password
 else:
     collection = database.username_and_password
     print(f"Collection {username_and_password} created.")
