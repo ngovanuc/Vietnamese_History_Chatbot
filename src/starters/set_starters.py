@@ -11,7 +11,7 @@ from langchain.schema.runnable import Runnable
 from langchain.schema.runnable import RunnableConfig
 
 from src.llms.cohere import command_a_03_2025
-from src.prompts.starter_generation_prompt import STARTER_GENERATION_PROMPT
+from src.prompt_engineering.starter_generation_prompt import STARTER_GENERATION_PROMPT
 
 
 llm = command_a_03_2025()
