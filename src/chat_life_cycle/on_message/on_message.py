@@ -35,6 +35,7 @@ from src.commands.examination import examination
 
 # @cl.on_message
 async def on_message(message: cl.Message):
+    # Điều hướng sang command examination
     if message.command == "Examination":
         await examination(message)
         return

@@ -1,6 +1,8 @@
 from pymongo import MongoClient
 import chainlit as cl
 
+from src.commands.commands import commands
+
 from src.authentication.password_auth_callback import connect_to_mongo
 
 from src.memory_buffer.retrieval_information import connect_to_qdrant
@@ -12,6 +14,7 @@ from src.chat_settings.chat_settings import chat_settings
 async def on_chat_start():
     print("[LOG] The user connected!")
     await cl.ChatSettings(chat_settings).send()
+    await cl.context.emitter.set_commands(commands)
     print("[LOG] Initializing chat setting... Done!")
     print("Chat settings: ", cl.user_session.get("chat_settings"))
 
