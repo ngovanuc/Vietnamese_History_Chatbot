@@ -26,11 +26,19 @@ from src.memory_buffer.memory_buffer import memory_buffer
 from src.memory_buffer.backup_data import backup
 from src.memory_buffer.short_memory_buffer import short_memory_buffer
 
+from src.chat_life_cycle.on_message.suggestions import suggestions
 from src.chat_life_cycle.on_message.prompt_mapping_management import choose_prompt
 from src.chat_life_cycle.on_message.prompt_mapping_management import prompt_mapping_management
 
+from src.commands.examination import examination
 
+
+# @cl.on_message
 async def on_message(message: cl.Message):
+    if message.command == "Examination":
+        await examination(message)
+        return
+
     """
     Steps:
         - Chọn prompt phù hợp dựa trên hoàn cảnh hiện tại
@@ -70,6 +78,9 @@ async def on_message(message: cl.Message):
         await cl.Message(content=response).send()
 
     cl.user_session.set("count_chat", cl.user_session.get("count_chat") + 1)
+
+    # Tạo suggestions cho cuộc trò chuyện
+    await suggestions()
 
     # Tạo bản tóm tắt lịch sử trò chuyện sau phản hồi
     summary_of_history_conversation = await summarize_history_conversation()

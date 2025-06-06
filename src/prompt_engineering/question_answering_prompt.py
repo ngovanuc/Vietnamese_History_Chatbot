@@ -18,7 +18,7 @@ xác và phù hợp với phong cách người dùng mong muốn. Dưới đây 
 chỉ sử dụng chúng để cải thiện chất lượng phản hồi khi cần thiết, không tập trung quá nhiều vào chúng.
 
 Thông tin người dùng (chỉ dùng để điều chỉnh phản hồi nếu phù hợp):
-- Tên: {{name}}
+- Tên: {name}
 - Nhóm tuổi: {{age_group}}
 - Ngôn ngữ: {{language}}
 - Mức độ hiểu biết lịch sử: {{level}}
