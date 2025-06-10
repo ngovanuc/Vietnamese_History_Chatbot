@@ -1,0 +1,72 @@
+slide 1
+
+Vào năm 1950, bài báo nổi tiếng của Alan Turing giới thiệu Trắc nghiệm Turing, được xem là khởi đầu cho ngành Xử lý ngôn ngữ tự nhiên (NLP). 
+
+Mặc dù chưa có ứng dụng cụ thể, nhưng đây là nền tảng triết học đầu tiên để xác định liệu một cỗ máy có thể hiểu và phản hồi ngôn ngữ tự nhiên như con người hay không, mở đường cho nhiều nghiên cứu.
+
+Đến năm 1954, một bước tiến lớn diễn ra với thí nghiệm Georgetown–IBM, đánh dấu khởi đầu của NLP với AI. 
+
+Hệ thống dịch tự động từ tiếng Nga sang tiếng Anh được xây dựng bằng các quy tắc lập trình tay. 
+
+Mặc dù rất hạn chế về tính linh hoạt và khả năng mở rộng, hệ thống này cho thấy tiềm năng của việc áp dụng AI vào ngôn ngữ tự nhiên, dẫn đến nhu cầu tìm ra phương pháp học hiệu quả hơn từ dữ liệu.
+
+Trong thập niên 1980s, NLP bắt đầu chuyển sang tiếp cận bằng machine learning, thay vì chỉ dựa vào các luật cố định. 
+
+Phương pháp thống kê như Hidden Markov Models (HMMs) giúp xử lý các tác vụ như phân tích cú pháp hay gán nhãn từ loại một cách xác suất. 
+
+Tuy nhiên, ML truyền thống vẫn khó mở rộng cho các mô hình biểu diễn ngữ nghĩa phức tạp, dẫn đến sự xuất hiện của nhu cầu sử dụng các mô hình học sâu hơn.
+
+Đến đầu những năm 1990s, mạng nơ-ron nhân tạo (ANN) bắt đầu được áp dụng vào NLP. 
+
+Khả năng học phi tuyến của ANN mang lại hiệu quả cao hơn trong các tác vụ như phân loại văn bản hay nhận dạng thực thể. 
+
+Tuy nhiên, các mạng truyền thẳng này lại không nắm bắt được thứ tự và ngữ cảnh trong câu — một điểm yếu rõ ràng trong xử lý ngôn ngữ.
+
+Cũng vào năm 1990, Recurrent Neural Networks (RNN) ra đời, nhằm giải quyết chính vấn đề đó. 
+
+Nhờ khả năng xử lý chuỗi và ghi nhớ thông tin theo thời gian, RNN được ứng dụng cho mô hình ngôn ngữ và nhận dạng giọng nói. 
+
+Tuy nhiên, mô hình này lại gặp khó khăn khi xử lý các chuỗi dài do hiện tượng gradient biến mất, khiến cho khả năng ghi nhớ lâu dài bị giới hạn → cần một kiến trúc hiệu quả hơn.
+
+Năm 1997, LSTM được giới thiệu để khắc phục nhược điểm này. 
+
+Nhờ cấu trúc bộ nhớ đặc biệt, LSTM duy trì được ngữ cảnh dài hạn và nhanh chóng trở thành lựa chọn ưu tiên trong các bài toán như dịch máy và tổng hợp giọng nói. 
+
+Dù vậy, kiến trúc RNN-based như LSTM vẫn tốn nhiều thời gian huấn luyện do tính tuần tự trong xử lý dữ liệu → đòi hỏi một bước nhảy về kiến trúc mạng.
+
+Năm 2006, Geoffrey Hinton công bố Deep Belief Networks, đánh dấu sự khởi đầu chính thức của Deep Learning. 
+
+Các mô hình học sâu cho phép trích xuất đặc trưng phức tạp một cách tự động từ dữ liệu lớn, tạo tiền đề cho việc áp dụng vào hàng loạt lĩnh vực như thị giác máy tính, xử lý giọng nói, và NLP. 
+
+Tuy nhiên, các kiến trúc trước năm 2017 vẫn phụ thuộc nhiều vào các mô hình tuần tự như RNN và LSTM, vốn khó song song hóa và xử lý hiệu quả.
+
+Năm 2017, một bước ngoặt quan trọng xảy ra với sự ra đời của Transformer. 
+
+Kiến trúc này loại bỏ hoàn toàn tính tuần tự, thay bằng cơ chế attention, giúp mô hình xử lý toàn bộ câu cùng lúc. 
+
+Điều này cho phép huấn luyện nhanh hơn, hiệu quả hơn và mở đường cho các mô hình quy mô lớn. 
+
+Tuy nhiên, chính từ đây, bài toán chuyển từ thiết kế mô hình sang khả năng mở rộng và xử lý khối lượng dữ liệu khổng lồ.
+
+Chỉ một năm sau, vào 2018, mô hình ngôn ngữ lớn (LLM) chính thức ra đời với sự xuất hiện của GPT-1. 
+
+Khác với các mô hình trước đó, LLM được huấn luyện trên lượng dữ liệu khổng lồ và có khả năng tạo sinh ngôn ngữ tự nhiên mượt mà, linh hoạt. 
+
+Đây chính là bước phát triển mang tính bước ngoặt, đặt nền móng cho thế hệ chatbot, trợ lý ảo, và hệ thống hiểu ngôn ngữ tự động ngày nay.
+
+-----
+slide 2
+
+Chúng ta đang sống trong thời đại mà trí tuệ nhân tạo có thể viết văn, giải toán, lập trình, thậm chí là trò chuyện như con người.
+
+Vậy, điều gì đứng sau những khả năng này? Đó chính là LLM.
+
+LLM, viết tắt của Large Language Model, là một loại mô hình trí tuệ nhân tạo được huấn luyện trên khối lượng văn bản cực lớn nhằm hiểu và tạo ra ngôn ngữ tự nhiên.
+
+Cái tên “large” không chỉ nói đến kích thước mô hình mà còn phản ánh số lượng tham số khổng lồ – có thể lên tới hàng trăm, thậm chí hàng nghìn tỷ – và chi phí huấn luyện hàng triệu đô la. 
+
+Về mặt kỹ thuật, LLM được xây dựng dựa trên kiến trúc Transformer, một đột phá trong lĩnh vực xử lý ngôn ngữ tự nhiên, tuy nhiên, các phiên bản hiện đại thường có sự điều chỉnh hoặc mở rộng để tăng hiệu quả và khả năng ứng dụng. 
+
+Nhờ đó, LLM không chỉ có thể sinh văn bản như viết bài, trả lời câu hỏi hay lập trình, mà còn được tích hợp với các mô-đun khác để xử lý âm thanh, hình ảnh, thậm chí là video. 
+
+Với sức mạnh này, LLM đang trở thành nền tảng cốt lõi cho nhiều ứng dụng AI hiện đại, từ trợ lý ảo, chatbot đến công cụ hỗ trợ sáng tạo. 
