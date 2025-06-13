@@ -40,7 +40,14 @@ async def examination(message: cl.Message):
     exam_questions = chain.invoke(input={"question": user_input})
     print(f"[LOG] Bộ câu hỏi trắc nghiệm: {exam_questions}")
 
-    exam_questions = ast.literal_eval(exam_questions)
+    try:
+        exam_questions = ast.literal_eval(exam_questions)
+        # await cl.Message(content="Ooops... Có vẻ như trình khởi tạo bài thi bị lỗi. Hãy thử lại nhé! 😎").send()
+        # return
+    except Exception as e:
+        print("[LOG] Error while converting string to dictionary! Error: ", e)
+        await cl.Message(content="Ooops... Có vẻ như trình khởi tạo bài thi bị lỗi. Hãy thử lại nhé! 😎").send()
+        return
 
     for exam_question in exam_questions:
         question = exam_question['question']

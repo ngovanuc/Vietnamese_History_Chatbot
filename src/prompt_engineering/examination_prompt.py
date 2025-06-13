@@ -17,4 +17,7 @@ Sau đây là 01 ví dụ về chủ đề chiến tranh điện biên phủ:
     "choices": ["A. 1949", "B. 1950", "C. 1953", "D. 1954"],
     "answer": "C"
   }},]
+
+**LƯU Ý QUAN TRỌNG**:
+  - Nếu câu hỏi của người dùng không rõ ràng hoặc không liên quan. Hãy trả về một string sau: "None".
 """
