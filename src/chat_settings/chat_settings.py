@@ -21,6 +21,8 @@ chat_settings = [
     ),
 
     Switch(id="Streaming", label="Phản hồi tức thì", initial=True),
+
+    Switch(id="Suggestions", label="Gợi ý chủ đề liên quan đến câu hỏi", initial=True),
     
     Slider(
         id="Temperature",

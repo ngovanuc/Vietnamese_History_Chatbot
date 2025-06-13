@@ -81,7 +81,8 @@ async def on_message(message: cl.Message):
     cl.user_session.set("count_chat", cl.user_session.get("count_chat") + 1)
 
     # Tạo suggestions cho cuộc trò chuyện
-    await suggestions()
+    if cl.user_session.get('chat_settings')["Suggestions"]:
+        await suggestions()
 
     # Tạo bản tóm tắt lịch sử trò chuyện sau phản hồi
     summary_of_history_conversation = await summarize_history_conversation()
