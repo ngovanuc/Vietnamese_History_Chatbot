@@ -1,9 +1,8 @@
 import os
-os.system("cls")
-
 import chainlit as cl
 
-from src.authentication.password_auth_callback import password_auth_callback
+from src.authentication.login.password_auth_callback import password_auth_callback
+from src.authentication.oauth_callback.oauth_callback import oauth_callback
 from src.starters.set_starters import set_starters
 from src.chat_settings.on_settings_update import update_settings
 from src.chat_life_cycle.on_chat_start import on_chat_start
@@ -19,7 +18,8 @@ from src.chat_life_cycle.on_loggout import on_logout
 
 
 cl.password_auth_callback(password_auth_callback)
-# cl.set_starters(set_starters)
+cl.oauth_callback(oauth_callback)
+cl.set_starters(set_starters)
 cl.on_settings_update(update_settings)
 cl.on_chat_start(on_chat_start)
 cl.on_audio_start(on_audio_start)

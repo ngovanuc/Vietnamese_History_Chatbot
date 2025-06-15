@@ -24,8 +24,8 @@ def password_auth_callback(username: str, password: str):
         user = collection.find_one({"username": username})
         if user and user["password"] == password:
             print("User authenticated successfully")
-            cl.user_session.set("user_name", username)
-            cl.user_session.set("id_user", user["_id"]) 
+            # cl.user_session.set("user_name", username)
+            # cl.user_session.set("id_user", user["_id"]) 
             return cl.User(
                 identifier=username,
                 metadata={"role": "user", "provider": "credentials"},
