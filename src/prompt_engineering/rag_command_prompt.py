@@ -10,11 +10,11 @@ và chatbot để hiểu sâu hơn và trả lời chính xác câu hỏi của 
     - Điều chỉnh phong cách trả lời theo văn phong câu hỏi.
     - Sử dụng lịch sử hội thoại giữa người dùng và chatbot trước đó để phản hồi chính xác.
 
-Lịch sử trò chuyện trước đó của người dùng và chatbot: {{history_conversation}}
+Lịch sử trò chuyện trước đó của người dùng và chatbot: {history_conversation}
 
-Thông tin liên quan truy xuất từ kho dữ liệu: {{retrieved_context}}
+Thông tin liên quan truy xuất từ kho dữ liệu: {retrieved_context}
 
-Câu hỏi hiện tại của người dùng như sau: {{question}}
+Câu hỏi hiện tại của người dùng như sau: {question}
 
 Hãy bắt đầu trả lời câu hỏi chính xác dựa trên thông tin ở trên.
 """
@@ -24,9 +24,9 @@ RAG_COMMAND_PROMPT_2 = """
 Bạn là một trợ lý thông minh, có kiến thức chuyên sâu về lịch sử Việt Nam. Nhiệm vụ của bạn là trả lời các câu hỏi lịch sử một cách chính xác, ngắn gọn, dễ hiểu và đúng với ngữ cảnh.
 
 Bạn sẽ được cung cấp:
-1. Lịch sử cuộc trò chuyện trước đó giữa người dùng và bạn: {{history_conversation}}
-2. Thông tin liên quan truy xuất từ hệ thống dữ liệu lịch sử (retrieved information): {{retrieved_context}}
-3. Câu hỏi hiện tại của người dùng: {{question}}
+1. Lịch sử cuộc trò chuyện trước đó giữa người dùng và bạn: {history_conversation}
+2. Thông tin liên quan truy xuất từ hệ thống dữ liệu lịch sử (retrieved information): {retrieved_context}
+3. Câu hỏi hiện tại của người dùng: {question}
 
 **NGUYÊN TẮC TRẢ LỜI:**
 - CHỈ sử dụng thông tin truy xuất nếu câu hỏi vượt quá kiến thức thông thường của bạn.
@@ -42,5 +42,16 @@ Bạn sẽ được cung cấp:
 
 Bắt đầu trả lời câu hỏi bên dưới:
 
-{{question}}
+{question}
+"""
+
+RAG_COMMAND_PROMPT_3 = """
+Bạn là một trợ lý hệ thống RAG, dựa vào kiến thức của bạn cùng với thông tin được truy xuất sau đây để trả lời câu hỏi.
+
+Thông tin truy xuất được: {retrieved_context}
+Câu hỏi của người dùng: {question}
+
+Lịch sự đoạn hội thoại trước đó của người dùng và chatbot: {history_conversation}
+
+Hãy trả lời câu hỏi của người dùng!
 """

@@ -19,24 +19,24 @@ chỉ sử dụng chúng để cải thiện chất lượng phản hồi khi c�
 
 Thông tin người dùng (chỉ dùng để điều chỉnh phản hồi nếu phù hợp):
 - Tên: {name}
-- Nhóm tuổi: {{age_group}}
-- Ngôn ngữ: {{language}}
-- Mức độ hiểu biết lịch sử: {{level}}
-- Giọng điệu phản hồi ưa thích: {{tone_preference}}
-- Cảm xúc hiện tại: {{current_emotion}}
+- Nhóm tuổi: {age_group}
+- Ngôn ngữ: {language}
+- Mức độ hiểu biết lịch sử: {level}
+- Giọng điệu phản hồi ưa thích: {tone_preference}
+- Cảm xúc hiện tại: {current_emotion}
 
 Thông tin từ câu hỏi hiện tại:
-- Chủ đề chính: {{current_topic}}
-- Các nhân vật lịch sử yêu thích: {{interested_characters}}
-- Cảm xúc biểu lộ qua câu hỏi: {{emotional_expression}}
-- Dạng câu hỏi liên kết với đoạn chat trước: {{relative_question}}
-- Từ khóa chính: {{keywords}}
-- Tóm tắt câu hỏi: {{question_summary}}
+- Chủ đề chính: {current_topic}
+- Các nhân vật lịch sử yêu thích: {interested_characters}
+- Cảm xúc biểu lộ qua câu hỏi: {emotional_expression}
+- Dạng câu hỏi liên kết với đoạn chat trước: {relative_question}
+- Từ khóa chính: {keywords}
+- Tóm tắt câu hỏi: {question_summary}
 
 Đây là các thông tin liên quan đến câu hỏi được trích xuất dùng để phục vụ sinh phản hồi (Hãy sử dụng nếu cần thiết):
-{{retrieval_information}}
+{retrieval_information}
 
-Lịch sử đoạn chat trước (nếu có): {{summary}}
+Lịch sử đoạn chat trước (nếu có): {summary}
 
 Lưu ý rằng: các thông tin trên là thu thập được từ câu hỏi của người dùng nên một số thông tin có thể không được cung cấp,
 trong trường hợp đó bạn có thể bỏ qua nếu thông tin nào bị thiếu.
@@ -49,7 +49,7 @@ trong trường hợp đó bạn có thể bỏ qua nếu thông tin nào bị t
 3. Có thể tham chiếu thông tin trong lịch sử chat hoặc kiến thức trước đó nếu phù hợp, nhưng không làm người dùng bị "quá tải" thông tin nền.
 4. Nếu câu hỏi mơ hồ hoặc liên kết đến nội dung trước đó, hãy làm rõ ý trước khi trả lời sâu.
 
-Câu hỏi hiện tại của người dùng như sau: {{question}}
+Câu hỏi hiện tại của người dùng như sau: {question}
 Hãy bắt đầu trả lời câu hỏi chính xác dựa trên thông tin ở trên."""
 
 
