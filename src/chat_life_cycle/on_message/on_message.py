@@ -31,13 +31,17 @@ from src.chat_life_cycle.on_message.prompt_mapping_management import choose_prom
 from src.chat_life_cycle.on_message.prompt_mapping_management import prompt_mapping_management
 
 from src.commands.examination import examination
-
+from src.commands.rag import rag
 
 # @cl.on_message
 async def on_message(message: cl.Message):
     # Điều hướng sang command examination
     if message.command == "Examination":
         await examination(message)
+        return
+    # Điều hướng sang command RAG
+    if message.command == "RAG":
+        await rag(message)
         return
 
     """

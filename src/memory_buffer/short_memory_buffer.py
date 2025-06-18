@@ -32,6 +32,10 @@ def prompt_routing(text: str|None=None):
         else:
             print("[LOG] Text provided and realtime chat is off. Return 4!")
             return QUESTION_ANSWERING_PROMPT_MAPPED_ONLY_HISTORY_CONVERSATION_SUMMARY, 4
+        
+        
+def retrieval(query):
+    return None
     
 
 def short_memory_buffer(user_input: str|None=None):

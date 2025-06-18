@@ -32,7 +32,7 @@ async def load_embedding_model():
 
 async def connect_to_qdrant():
     try:
-        print("[LOG] Loading vector database...")
+        print("[LOG] Loading vector database (của dataset về lịch sử)...")
         client = QdrantClient(url="http://localhost:6333")
         if client.collection_exists(collection_name=collection_name):
             collection = client.get_collection(collection_name=collection_name)
@@ -46,14 +46,20 @@ async def connect_to_qdrant():
         print(f"[LOG] Error while loading vector database! Error: {e}")
         return None
 
+async def connect_qdrant_client():
+    print("[LOG] Connecting to Qdrant...")
+    client = QdrantClient(url="http://localhost:6333")
+    print("[LOG] Connected to Qdant!")
+    return client
 
 # embedding_model = asyncio.create_task(load_embedding_model())
 # qdrant_client = asyncio.create_task(connect_to_qdrant())
 embedding_model = asyncio.run(load_embedding_model())
 qdrant_client = asyncio.run(connect_to_qdrant())
+# qdrant_client = asyncio.run(connect_qdrant_client())
 
 
-async def retriever(query: str|None=None, top_k: int|None=None):
+async def retriever(collection_name: str|None=None, query: str|None=None, top_k: int|None=None):
     """Trích xuất thông tin từ cơ sở dữ liệu vector database.
     
     Inputs:
@@ -69,6 +75,9 @@ async def retriever(query: str|None=None, top_k: int|None=None):
         # raise Exception("Embedding model or vector database not loaded yet!")
         return None
 
+    if collection_name is None:
+        return None
+    
     if query is None:
         return None
     

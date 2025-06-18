@@ -24,7 +24,7 @@ def model_config():
         model=model_name,
         cohere_api_key=api_key,
         streaming=False,
-        temperature=1.0,
+        temperature=0.0,
     )
     return model_config
 
@@ -78,4 +78,5 @@ async def examination(message: cl.Message):
             await cl.Message(content="❌ Đáp án đúng là: " + str(the_answer) + "",).send()
     
     await cl.Message(content=f"Chúc mừng bạn hoàn thành bài thi! 😎").send()
+    cl.user_session.set("count_chat", cl.user_session.get("count_chat") + 1)
     return

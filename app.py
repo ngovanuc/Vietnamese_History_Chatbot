@@ -1,4 +1,6 @@
 import os
+# os.system('cls')
+
 import chainlit as cl
 
 from src.authentication.login.password_auth_callback import password_auth_callback
