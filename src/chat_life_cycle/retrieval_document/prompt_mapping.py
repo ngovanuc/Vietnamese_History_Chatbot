@@ -6,6 +6,7 @@ from langchain.schema import StrOutputParser
 
 from src.prompt_engineering.rag_command_prompt import RAG_COMMAND_PROMPT
 from src.prompt_engineering.rag_command_prompt import RAG_COMMAND_PROMPT_2
+from src.prompt_engineering.rag_command_prompt import RAG_COMMAND_PROMPT_3
 
 
 async def mapping_prompt(question, retrieval_result):
@@ -22,4 +23,4 @@ async def mapping_prompt(question, retrieval_result):
         "retrieved_context": content,
         "question": question,
     }
-    return RAG_COMMAND_PROMPT_2, prompt_mapping
+    return RAG_COMMAND_PROMPT_3, prompt_mapping

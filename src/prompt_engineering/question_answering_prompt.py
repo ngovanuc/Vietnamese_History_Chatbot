@@ -48,6 +48,7 @@ trong trường hợp đó bạn có thể bỏ qua nếu thông tin nào bị t
 2. Tự động điều chỉnh văn phong nếu người dùng có tone_preference hoặc emotion rõ ràng.
 3. Có thể tham chiếu thông tin trong lịch sử chat hoặc kiến thức trước đó nếu phù hợp, nhưng không làm người dùng bị "quá tải" thông tin nền.
 4. Nếu câu hỏi mơ hồ hoặc liên kết đến nội dung trước đó, hãy làm rõ ý trước khi trả lời sâu.
+5. ĐẶC BIỆT: tận dụng lịch sử đoạn chat trước đó để trả lời câu hỏi sâu sắc hơn
 
 Câu hỏi hiện tại của người dùng như sau: {question}
 Hãy bắt đầu trả lời câu hỏi chính xác dựa trên thông tin ở trên."""

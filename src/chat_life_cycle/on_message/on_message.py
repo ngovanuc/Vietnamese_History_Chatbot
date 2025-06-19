@@ -56,9 +56,27 @@ async def on_message(message: cl.Message):
     """
     user_input = message.content
 
+    # TODO: Xử lý câu hỏi đầu vào ban đầu, bao gồm:
+    # 1. Sử dụng các lược đồ để trích xuất các thông tin quan trọng từ người dùng
+    # 2. Map các thông tin đã trích xuất được vào prompt phù hợp với hoàn cảnh hiện tại
+
+    """Chỉ lựa chọn một trong hai: memory buffer hoặc short memory buffer để chạy"""
+    # TODO: Code này cho mục đích memory buffer
+    # Trích xuất câu hỏi từ người dùng
+    extracting_result, summary_result, retrieval_result = await memory_buffer(query=user_input, top_k=1)
+    prompt_template, _ = choose_prompt(extracting_result, summary_result, retrieval_result)
+    prompt_mapping = prompt_mapping_management(extracting_result=extracting_result, 
+                                               summary_result=summary_result, 
+                                               retrieval_result=retrieval_result, 
+                                               user_query=user_input, 
+                                               k=_)
+    cl.user_session.set("extracting_question", extracting_result)
+    # print(f"[LOG] User information (extracted): {cl.user_session.get('user_information')}")
+    
+    # TODO: Code này cho mục đích short memory buffer
     # Chọn prompt phù hợp dựa trên hoàn cảnh hiện tại (prompt_template)
     # Mapping câu hỏi người dùng và lịch sử trò chuyện đã được tóm tắt vào prompt (prompt_mapping)
-    prompt_template, prompt_mapping = short_memory_buffer(user_input=user_input)
+    # prompt_template, prompt_mapping = short_memory_buffer(user_input=user_input)
 
     # Nạp prompt (prompt), điều hướng model trả lời (llm_model), xây dựng chain (chain)
     prompt = ChatPromptTemplate.from_template(prompt_template)

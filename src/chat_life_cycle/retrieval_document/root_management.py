@@ -91,7 +91,6 @@ async def management(message: cl.Message):
         async for chunk in chain.astream(input=prompt_mapping, config=RunnableConfig(callbacks=[callback])):
             await stream_msg.stream_token(chunk)
         await stream_msg.send()
-    
     else:
         response = chain.invoke(
             input=prompt_mapping,
