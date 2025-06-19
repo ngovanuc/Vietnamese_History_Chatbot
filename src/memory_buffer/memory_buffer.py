@@ -4,6 +4,7 @@
     - Tóm tắt của lịch sử trò chuyện"""
 
 import asyncio
+import chainlit as cl
 
 from src.memory_buffer.extract_question import extracting
 from src.memory_buffer.summary_history_conversation import summarize
@@ -25,11 +26,13 @@ async def memory_buffer(query: str|None=None, top_k: int|None=None):
     """
     # Chạy trích lược câu hỏi và Tóm tắt lịch sử đoạn chat song song
     extracting_result = asyncio.create_task(extracting(query))
-    summary_result = asyncio.create_task(summarize())
+    # summary_result = asyncio.create_task(summarize())
+    summary_result = cl.user_session.get("summary_history_conversation")
     
     # Đợi kết quả trích lược và dùng nó để trích xuất vector database
     await extracting_result
-    await summary_result
+    # await summary_result
+
     # Có hai hình thức lấy thông tin retrieval
     # Thứ 1: Dùng chính câu hỏi để retrieval
     # Thứ 2: Dùng thông tin có chọn lọc trong extracting_result để retrieval
@@ -37,16 +40,24 @@ async def memory_buffer(query: str|None=None, top_k: int|None=None):
     retrieval_result = asyncio.create_task(retriever(query, top_k))
     await retrieval_result
     
-    print(f"[LOG] Kết quả trích xuất từ câu hỏi: {extracting_result}")
-    for field, value in extracting_result.result().model_dump().items():
-        print(f"[LOG] {field}: {value}")
+    if extracting_result:
+        print(f"[LOG] Kết quả trích xuất từ câu hỏi: {extracting_result}")
+        for field, value in extracting_result.result().model_dump().items():
+            print(f"[LOG] {field}: {value}")
+            if value != None:
+                # Nếu có thông tin mới được trích xuất thì cập nhật vào user_information
+                user_information = cl.user_session.get("user_information")
+                user_information = user_information.model_copy(update={field: value})
+                cl.user_session.set("user_information", user_information)
+        extracting_result = user_information
 
     print(f"[LOG] Kết quả tóm tắt lịch sử hội thoại: {summary_result}")
-    for field, value in summary_result.result().model_dump().items():
-        print(f"[LOG] {field}: {value}")
+    # for field, value in summary_result.result().model_dump().items():
+        # print(f"[LOG] {field}: {value}")
 
     print(f"[LOG] Kết quả truy xuất thông tin từ database: {retrieval_result}")
-    for result in retrieval_result.result():
+    # for result in retrieval_result.result():
+    for result in retrieval_result:
         print(f"Content: {result.payload['embedding_content']}\nscore: {result.score}\n")
 
     return extracting_result, summary_result, retrieval_result

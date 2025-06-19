@@ -2,6 +2,9 @@
 import os
 import time
 import asyncio
+
+import chainlit as cl
+
 from src.memory_buffer.init_llm_for_extract import command_a_03_2025_for_extract
 from src.memory_buffer.init_llm_for_extract import mistral_large_latest_for_extract
 from src.memory_buffer.init_llm_for_extract import gemini_20_flash_for_extract
@@ -44,8 +47,13 @@ async def extracting(text: str|None=None):
         structured_output = llm.with_structured_output(schema=SchemaExtractionQuestion)
         prompt = prompt_template.invoke({"text": text})
         output = structured_output.invoke(prompt)
-        return output
+        if output and all(k in output for k in SchemaExtractionQuestion.model_fields):
+            result = SchemaExtractionQuestion(**output)
+            return result
+        else:
+            return output
     except Exception as e:
         print("[LOG] Error while extracting question! Error: ", e)
-        return None
+        user_information = cl.user_session.get("user_information")
+        return user_information
     

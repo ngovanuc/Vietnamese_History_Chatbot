@@ -25,7 +25,9 @@ prompt_template = ChatPromptTemplate.from_messages([
     ("system", """Bạn là một chuyên gia trong trong việc tóm tắt lịch sử cuộc trò chuyện giữa người dùng và chatbot,
     nội dung tóm tắt được dùng để bổ sung ngữ cảnh cho chatbot có trí nhớ lâu dài. 
     Hãy tóm tắt các nội dung chính của các phiên hội thoại này sao cho ngắn gọn nhưng phải đầy đủ thông tin để
-    giúp chatbot có trí nhớ dài hạn."""),
+    giúp chatbot có trí nhớ dài hạn.
+     
+    Lưu ý quan trọng: Không được phép bỏ qua các thông tin cá nhân liên quan đến người dùng như tên, tuổi, ngôn ngữ, sở thích, v.v."""),
     ("human", "{text}"),
 ])
 

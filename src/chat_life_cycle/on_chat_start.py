@@ -14,6 +14,8 @@ from src.memory_buffer.retrieval_information import connect_qdrant_client
 from src.memory_buffer.retrieval_information import embedding_model
 from src.chat_settings.chat_settings import chat_settings
 
+from src.memory_buffer.define_schema_extraction import SchemaExtractionQuestion
+
 # @cl.on_chat_start
 async def on_chat_start():
     print("[LOG] The user connected!")
@@ -45,7 +47,23 @@ async def on_chat_start():
     cl.user_session.set("files", None) # Files for RAG command
     print("[LOG] Init collection for new conversation... Done!")
 
-    cl.user_session.set("summary_of_history_conversation", None)
+    cl.user_session.set("summary_of_history_conversation", "")
+
+    user_information = SchemaExtractionQuestion(
+        name=None,
+        age_group=None,
+        language=None,
+        level=None,
+        tone_preference=None,
+        current_emotion=None,
+        current_topic=None,
+        interested_characters=[],
+        emotional_expression=None,
+        relative_question=None,
+        keywords=[],
+        question_summary=None
+    )
+    cl.user_session.set("user_information", user_information)
     # Set user session parameters
     # cl.user_session.set("history_chat", []) -> cl.chat_context.messages
 

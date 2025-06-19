@@ -28,13 +28,14 @@ def choose_prompt(extracting_result, summary_result, retrieval_result):
         return QUESTION_ANSWERING_PROMPT, 4
     
 
-def prompt_mapping_management(extracting_result, summary_result, retrieval_result, user_query, memory_buffer_mode, k):
+def prompt_mapping_management(extracting_result, summary_result, retrieval_result, user_query, k):
+    """k: k được trả về trong quá trình chọn prompt (choose_prompt)"""
     print("[LOG] Mapping prompt...")
-    extracting_result = extracting_result.result()
-    summary_result = summary_result.result()
+    # extracting_result = extracting_result.result()
+    # summary_result = summary_result.result()
     retrieval_result = retrieval_result.result()
 
-    if memory_buffer_mode == True and k == 1:
+    if k == 1:
         # Với những thông tin trích xuất được là None, đổi thành string rỗng
         for field, value in extracting_result.model_dump().items():
             if value is None:
@@ -45,26 +46,26 @@ def prompt_mapping_management(extracting_result, summary_result, retrieval_resul
             retrieval_information += result.payload['embedding_content'] + "\n"
 
         prompt_mapping = {
-            # "name": extracting_result.name,
-            # "age_group": extracting_result.age_group,
-            # "language": extracting_result.language,
-            # "level": extracting_result.level,
-            # "tone_preference": extracting_result.tone_preference,
-            # "current_emotion": extracting_result.current_emotion,
-            # "current_topic": extracting_result.current_topic,
-            # "interested_characters": extracting_result.interested_characters,
-            # "emotional_expression": extracting_result.emotional_expression,
-            # "relative_question": extracting_result.relative_question,
-            # "keywords": extracting_result.keywords,
-            # "question_summary": extracting_result.question_summary,
-            # "retrieval_information": retrieval_information,
+            "name": extracting_result.name,
+            "age_group": extracting_result.age_group,
+            "language": extracting_result.language,
+            "level": extracting_result.level,
+            "tone_preference": extracting_result.tone_preference,
+            "current_emotion": extracting_result.current_emotion,
+            "current_topic": extracting_result.current_topic,
+            "interested_characters": extracting_result.interested_characters,
+            "emotional_expression": extracting_result.emotional_expression,
+            "relative_question": extracting_result.relative_question,
+            "keywords": extracting_result.keywords,
+            "question_summary": extracting_result.question_summary,
+            "retrieval_information": retrieval_information,
             "summary": summary_result,
             "question": user_query
         }
         print("[LOG] Mapping prompt 1 done!")
         return prompt_mapping
     
-    elif memory_buffer_mode == True and k == 2:
+    elif k == 2:
         # Khi trích lược và trích xuất thất bại, history_summary thành công
         prompt_mapping = {
             "question": user_query,
@@ -72,7 +73,7 @@ def prompt_mapping_management(extracting_result, summary_result, retrieval_resul
         }
         return prompt_mapping
     
-    elif memory_buffer_mode == True and k == 3:
+    elif k == 3:
         # Khi việc trích lược câu hỏi, truy xuất thông tin và cả tóm tắt lịch sử các đoạn hội thoại thất bại
         history_conversation = cl.chat_context.to_openai()
         if len(history_conversation) > 2:
@@ -87,7 +88,7 @@ def prompt_mapping_management(extracting_result, summary_result, retrieval_resul
         }
         return prompt_mapping
     
-    elif memory_buffer_mode == False or k == 4:
+    elif k == 4:
         prompt_mapping = {
             "question": user_query,
         }
