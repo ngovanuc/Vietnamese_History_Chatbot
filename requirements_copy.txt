@@ -25,3 +25,4 @@ mistralai
 langchain_mistralai
 PyPDF2
 pyttsx3
+asyncpg

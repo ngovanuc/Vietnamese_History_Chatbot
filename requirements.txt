@@ -25,3 +25,4 @@ mistralai==1.7.0
 langchain_mistralai==0.2.10
 PyPDF2
 pyttsx3
+asyncpg
