@@ -1,3 +1,4 @@
+# https://platform.openai.com/account/api-keys
 class gpt_4_32k:
     def __init__(self):
         self.model_name = "gpt-4-32k"

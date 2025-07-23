@@ -1,6 +1,9 @@
 .data/
 audio_models/whisper/*
 
+documents/VIETNAMESE_HISTORY_CHATBOT.docx
+documents/VIETNAMESE_HISTORY_CHATBOT.pdf
+
 embedding_models/all-MiniLM-L6-v2/
 embedding_models/bert-base-vietnamese-uncased/
 embedding_models/distiluse-base-multilingual-cased-v2/
