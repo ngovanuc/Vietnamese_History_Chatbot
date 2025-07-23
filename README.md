@@ -78,4 +78,4 @@ Run these:
 
 Oke finish!
 
-There are many things to do to run this project successfuly but I'm lazy. If you have any question, let's contact to me! 🛌😴
+There are many things to do to run this project run successfuly but I'm lazy. If you have any question, let's contact to me! 🛌😴
