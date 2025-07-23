@@ -30,7 +30,6 @@ Step 3: Install libraries needed
 
   ```
   pip install -r requirements_copy.txt
-
   ```
 
 Step 4: Make sure you have
